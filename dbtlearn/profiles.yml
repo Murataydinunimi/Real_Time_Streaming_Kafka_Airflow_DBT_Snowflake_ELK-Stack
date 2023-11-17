@@ -1,0 +1,13 @@
+dbtlearn:
+  outputs:
+    dev:
+      account: '<snowflake-your-account_name>-<your-regions>'
+      database: TAXI_APP
+      password: 'your-dbt-password'
+      role: TAXI_APP_ML
+      schema: TRANSACTIONS
+      threads: 1
+      type: snowflake
+      user: dbt_taxi
+      warehouse: COMPUTE_WH
+  target: dev

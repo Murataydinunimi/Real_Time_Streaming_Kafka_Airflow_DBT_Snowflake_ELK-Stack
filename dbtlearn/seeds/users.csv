@@ -1,0 +1,751 @@
+id,name,surname,registration_date,age,education
+1,Antonello,Ruggeri,2020-07-08,57,High School
+2,Goffredo,Golgi,2021-12-18,40,Ph.D.
+3,Toni,Celentano,2020-12-26,59,Master's Degree
+4,Severino,Paruta,2023-08-21,19,Bachelor's Degree
+5,Antonio,Odescalchi,2018-08-14,33,Ph.D.
+6,Marina,Borzomì,2023-05-02,21,Secondary School
+7,Griselda,Gentilini,2020-09-21,25,High School
+8,Giada,Solimena,2019-05-21,48,Secondary School
+9,Rosa,Manunta,2022-04-26,42,Master's Degree
+10,Zaira,Einaudi,2020-12-28,24,Master's Degree
+11,Flavio,Lippomano,2019-10-31,33,Primary School
+12,Cristina,Balotelli,2018-08-01,31,Bachelor's Degree
+13,Paoletta,Fusani,2018-12-02,35,Secondary School
+14,Alberto,Caetani,2019-12-29,42,Secondary School
+15,Michelotto,Metella,2019-09-22,22,Secondary School
+16,Simone,Catalano,2021-12-01,57,Master's Degree
+17,Goffredo,Camuccini,2021-05-11,46,Secondary School
+18,Galasso,Aldobrandi,2018-01-05,26,Primary School
+19,Puccio,Sobrero,2019-08-12,18,Secondary School
+20,Amleto,Ferraris,2019-03-01,31,Secondary School
+21,Rosina,Spadafora,2021-08-12,28,High School
+22,Eliana,Pepe,2020-09-24,38,Secondary School
+23,Arnaldo,Torricelli,2021-02-17,52,Ph.D.
+24,Claudio,Grisoni,2018-06-29,58,Secondary School
+25,Raimondo,Costanzi,2021-11-24,29,Ph.D.
+26,Adamo,Sraffa,2019-04-12,30,Bachelor's Degree
+27,Dante,Gozzano,2018-06-19,37,Primary School
+28,Matteo,Borroni,2022-11-10,41,Bachelor's Degree
+29,Luchino,Aldobrandi,2018-01-27,28,Secondary School
+30,Lando,Castiglione,2019-02-13,34,Primary School
+31,Morena,Celentano,2018-01-10,39,High School
+32,Arsenio,Galtarossa,2021-10-14,56,Master's Degree
+33,Achille,Pedrazzini,2023-11-02,18,Master's Degree
+34,Dario,Acerbi,2019-07-11,39,Primary School
+35,Arnulfo,Falier,2020-07-19,37,High School
+36,Sophia,Collodi,2023-04-28,37,Bachelor's Degree
+37,Cirillo,Battelli,2019-03-19,38,Secondary School
+38,Raffaellino,Valguarnera,2018-08-15,48,Bachelor's Degree
+39,Donatella,Pontecorvo,2017-12-01,29,Primary School
+40,Marta,Zanichelli,2023-08-06,34,Primary School
+41,Raffaellino,Cutuli,2023-05-03,40,Bachelor's Degree
+42,Temistocle,Mogherini,2020-03-30,19,Master's Degree
+43,Pompeo,Sagese,2018-06-20,44,High School
+44,Vincenzo,Grossi,2019-09-22,42,Master's Degree
+45,Giustino,Comboni,2021-12-07,18,Bachelor's Degree
+46,Fedele,Gianinazzi,2021-07-20,20,Ph.D.
+47,Costantino,Cutrufo,2020-11-22,29,Master's Degree
+48,Gianpietro,Baracca,2021-06-09,30,Primary School
+49,Rodolfo,Costanzi,2023-07-01,33,Bachelor's Degree
+50,Melissa,Fabrizi,2021-04-26,40,Master's Degree
+51,Gioachino,Bazzi,2020-04-25,40,Master's Degree
+52,Raffaella,Scarlatti,2020-12-04,34,Bachelor's Degree
+53,Rosina,Carocci,2020-10-09,24,Master's Degree
+54,Damiano,Piazzi,2020-01-11,41,High School
+55,Rosario,Berlusconi,2022-10-01,20,Bachelor's Degree
+56,Cirillo,Bersani,2018-05-22,23,Secondary School
+57,Dario,Roccabonella,2020-10-28,39,Master's Degree
+58,Isabella,Mascagni,2023-06-23,57,High School
+59,Gelsomina,Desio,2019-12-23,27,High School
+60,Adriana,Cammarata,2022-08-23,35,Ph.D.
+61,Marcella,Chittolini,2017-12-18,52,Primary School
+62,Rosina,Zacchia,2021-11-16,37,Ph.D.
+63,Gilberto,Agostini,2018-08-05,38,High School
+64,Ottavio,Roero,2018-06-02,29,Primary School
+65,Lodovico,Federici,2018-07-28,58,Secondary School
+66,Fortunata,Mazzacurati,2021-12-24,37,Bachelor's Degree
+67,Ilaria,Chiaramonte,2019-07-05,28,Ph.D.
+68,Antonello,Inzaghi,2019-06-05,21,Primary School
+69,Stefano,Onisto,2020-06-14,56,Master's Degree
+70,Piergiuseppe,Pistoletto,2021-08-18,43,Primary School
+71,Vincenza,Cantimori,2018-02-21,33,Ph.D.
+72,Michelangelo,Mattarella,2022-03-26,56,High School
+73,Luciano,Offredi,2023-09-20,34,Bachelor's Degree
+74,Orazio,Pizziol,2022-04-09,59,Bachelor's Degree
+75,Loretta,Ferrari,2018-10-31,27,Primary School
+76,Dino,Tommaseo,2023-03-05,58,Primary School
+77,Elisa,Bellocchio,2022-05-14,49,High School
+78,Mariana,Cagnotto,2023-09-27,31,Secondary School
+79,Ugo,Oscuro,2022-10-27,54,Secondary School
+80,Piergiuseppe,Mogherini,2018-06-14,58,Bachelor's Degree
+81,Paloma,Valmarana,2021-02-19,24,Secondary School
+82,Ernesto,Moccia,2023-02-12,45,High School
+83,Paolo,Donà,2019-04-29,27,Primary School
+84,Stefania,Rossi,2019-07-22,44,High School
+85,Durante,Carullo,2021-01-07,27,Bachelor's Degree
+86,Mirco,Fiorucci,2021-08-02,57,Secondary School
+87,Bernardo,Ammaniti,2019-09-05,51,Bachelor's Degree
+88,Rolando,Gatto,2018-12-18,49,Ph.D.
+89,Flora,Silvestri,2023-03-17,38,Bachelor's Degree
+90,Gabriella,Argan,2023-03-24,35,High School
+91,Marcello,Martucci,2019-08-21,48,Bachelor's Degree
+92,Piersanti,Galeati,2023-06-23,27,Primary School
+93,Benedetto,Fattori,2022-03-15,42,Master's Degree
+94,Goffredo,Errani,2023-08-11,29,Ph.D.
+95,Dario,Gabrieli,2021-02-20,49,High School
+96,Raimondo,Asmundo,2018-06-19,29,Primary School
+97,Giovanna,Toldo,2022-05-28,49,High School
+98,Giorgio,Farnese,2022-02-21,50,Master's Degree
+99,Loretta,Matteotti,2018-07-18,50,High School
+100,Romina,Sagnelli,2018-11-03,22,High School
+101,Amanda,Foà,2019-04-05,55,Ph.D.
+102,Virgilio,Caetani,2018-05-20,20,High School
+103,Azeglio,Scandone,2020-11-10,41,Master's Degree
+104,Emilio,Sibilia,2023-02-14,60,High School
+105,Alfio,Camilleri,2021-06-14,49,High School
+106,Vito,Faranda,2023-06-26,36,High School
+107,Ruggiero,Veltroni,2020-07-24,59,Secondary School
+108,Ninetta,Montecchi,2022-10-12,55,Primary School
+109,Giorgio,Pometta,2022-06-06,48,Master's Degree
+110,Toni,Filangieri,2018-05-16,34,High School
+111,Temistocle,Passalacqua,2022-02-25,60,High School
+112,Ivo,Renier,2019-11-04,47,High School
+113,Donato,Galtarossa,2019-07-28,50,Ph.D.
+114,Milena,Nugnes,2020-10-31,40,High School
+115,Pellegrino,Caboto,2023-10-04,35,Ph.D.
+116,Lucrezia,Puglisi,2023-03-07,40,Ph.D.
+117,Liliana,Ruffini,2019-09-12,44,High School
+118,Patrizia,Cipolla,2020-09-11,29,Ph.D.
+119,Irma,Parpinel,2023-01-06,46,High School
+120,Vanessa,Lamborghini,2018-08-10,39,Master's Degree
+121,Alderano,Tuzzolino,2018-04-06,27,Master's Degree
+122,Greco,Rusticucci,2020-10-22,28,Secondary School
+123,Rembrandt,Vivaldi,2022-05-11,41,Bachelor's Degree
+124,Filippo,Giannone,2019-03-15,36,Ph.D.
+125,Gianluca,Palumbo,2023-09-07,23,Ph.D.
+126,Amleto,Broggini,2020-06-24,60,Ph.D.
+127,Guglielmo,Piazzi,2021-10-14,44,Secondary School
+128,Fabrizio,Zola,2023-02-24,57,Master's Degree
+129,Loredana,Perozzo,2018-07-13,51,Ph.D.
+130,Flora,Bertolucci,2018-09-21,44,High School
+131,Melissa,Mocenigo,2021-10-11,57,Master's Degree
+132,Ornella,Fieramosca,2018-10-06,58,High School
+133,Loredana,Treves,2021-08-31,19,Secondary School
+134,Napoleone,Moccia,2022-08-14,28,Master's Degree
+135,Fabia,Canali,2021-04-13,46,Master's Degree
+136,Guarino,Bernardini,2018-06-13,59,Secondary School
+137,Sonia,Sommaruga,2021-03-11,32,Ph.D.
+138,Zaira,Bonolis,2018-04-17,29,Ph.D.
+139,Allegra,Cianciolo,2019-10-31,20,Bachelor's Degree
+140,Patrizia,Chiappetta,2021-05-02,32,Secondary School
+141,Ennio,Chiesa,2022-04-27,21,Secondary School
+142,Aurora,Folliero,2021-04-21,25,High School
+143,Benito,Marcacci,2020-06-24,29,Bachelor's Degree
+144,Mirco,Paolucci,2018-11-26,30,Master's Degree
+145,Cirillo,Cattaneo,2019-06-28,20,Bachelor's Degree
+146,Vito,Balbi,2020-11-30,47,High School
+147,Olga,Zanichelli,2020-07-12,42,Ph.D.
+148,Vincenza,Baglioni,2017-12-05,57,Primary School
+149,Donato,Michelangeli,2020-02-05,55,Secondary School
+150,Carlo,Camuccini,2022-03-24,33,Ph.D.
+151,Gianni,Trapani,2021-04-20,41,Primary School
+152,Adelmo,Vezzali,2023-05-10,40,Bachelor's Degree
+153,Valentina,Greco,2020-03-06,35,Bachelor's Degree
+154,Agnolo,Barcaccia,2021-07-29,25,Ph.D.
+155,Giuseppina,Mazzanti,2022-12-25,53,High School
+156,Vito,Turchetta,2021-02-23,20,Master's Degree
+157,Alessandra,Scandone,2022-10-04,57,High School
+158,Giuseppina,Mercadante,2019-11-23,24,High School
+159,Mirco,Tognazzi,2021-01-11,52,Master's Degree
+160,Eliana,Trebbi,2020-03-05,39,Master's Degree
+161,Serafina,Parri,2020-03-20,36,High School
+162,Augusto,Nievo,2020-05-25,26,Bachelor's Degree
+163,Maurizio,Lombroso,2021-06-12,44,Master's Degree
+164,Arnulfo,Luxardo,2022-08-22,59,Master's Degree
+165,Ludovica,Iadanza,2023-09-20,41,Bachelor's Degree
+166,Stefani,Brambilla,2019-12-17,27,Secondary School
+167,Annetta,Pirandello,2018-07-14,56,Bachelor's Degree
+168,Natalia,Campano,2022-11-12,54,Bachelor's Degree
+169,Domenico,Valentino,2020-06-12,30,Secondary School
+170,Federigo,Samele,2021-12-19,56,Primary School
+171,Ferdinando,Cafarchia,2021-09-20,40,Ph.D.
+172,Luciano,Trevisani,2022-12-09,18,Bachelor's Degree
+173,Lisa,Duodo,2023-09-22,24,High School
+174,Eugenia,Pavarotti,2020-08-10,54,Master's Degree
+175,Federica,Fantoni,2019-11-12,52,Secondary School
+176,Sandra,Calgari,2020-06-01,38,Ph.D.
+177,Alberto,Treccani,2022-09-20,54,Bachelor's Degree
+178,Fabio,Broschi,2023-04-29,45,Bachelor's Degree
+179,Pierpaolo,Almagià,2022-06-23,32,Bachelor's Degree
+180,Romana,Franzese,2020-04-30,36,Bachelor's Degree
+181,Giancarlo,Gianetti,2020-02-08,42,Bachelor's Degree
+182,Imelda,Aporti,2021-12-31,28,Master's Degree
+183,Raffaele,Semitecolo,2022-09-24,56,High School
+184,Benito,Bossi,2018-07-08,37,Bachelor's Degree
+185,Raffaellino,Lombardi,2021-05-04,34,Bachelor's Degree
+186,Armando,Morpurgo,2021-06-07,19,High School
+187,Valerio,Petrassi,2020-12-21,37,Bachelor's Degree
+188,Giovanna,Mannoia,2023-06-08,36,Secondary School
+189,Liliana,Bellucci,2023-06-05,48,Primary School
+190,Severino,Sbarbaro,2021-01-26,25,Ph.D.
+191,Stella,Schiaparelli,2019-12-30,57,Bachelor's Degree
+192,Irma,Tartini,2020-08-07,33,High School
+193,Pierangelo,Mazzacurati,2020-11-08,20,Secondary School
+194,Ricciotti,Palombi,2021-10-06,43,Primary School
+195,Margherita,Ughi,2023-03-25,48,Master's Degree
+196,Ninetta,Serlupi,2018-02-09,53,High School
+197,Amleto,Baggio,2017-12-19,33,Bachelor's Degree
+198,Morena,Moretti,2022-12-24,20,Secondary School
+199,Benedetto,Camanni,2018-05-12,49,High School
+200,Martino,Gilardoni,2022-11-19,27,Ph.D.
+201,Maura,Scarfoglio,2020-10-10,36,High School
+202,Gianluca,Storladi,2023-06-02,49,Master's Degree
+203,Greco,Murri,2017-11-13,48,Master's Degree
+204,Pierina,Vecellio,2021-07-03,59,Master's Degree
+205,Eva,Ceri,2018-07-09,25,Primary School
+206,Veronica,Pavarotti,2023-02-14,26,High School
+207,Chiara,Papafava,2019-03-15,36,Master's Degree
+208,Vincenzo,Ubaldi,2019-08-02,39,Master's Degree
+209,Torquato,Gabrieli,2021-06-28,36,Ph.D.
+210,Donna,Ferrabosco,2020-11-03,51,Primary School
+211,Claudia,Parini,2022-03-20,47,High School
+212,Viridiana,Pedersoli,2019-12-20,41,Ph.D.
+213,Raffaellino,Mannoia,2020-05-31,55,Secondary School
+214,Simonetta,Vivaldi,2019-05-20,20,Primary School
+215,Adele,Zecchini,2021-10-31,34,Master's Degree
+216,Agostino,Cappelli,2018-01-28,47,Ph.D.
+217,Paulina,Zanzi,2021-09-18,24,Ph.D.
+218,Giampaolo,Viviani,2021-10-06,52,Secondary School
+219,Tiziana,Sabatini,2022-04-25,18,Bachelor's Degree
+220,Piermaria,Giolitti,2019-03-15,45,Master's Degree
+221,Telemaco,Canetta,2020-09-02,54,Ph.D.
+222,Gabriele,Farinelli,2018-07-01,58,Ph.D.
+223,Agnolo,Leblanc,2019-02-17,48,Bachelor's Degree
+224,Gelsomina,Paganini,2019-09-03,48,Bachelor's Degree
+225,Matteo,Bodoni,2021-07-04,30,High School
+226,Rita,Lopresti,2019-05-29,47,Primary School
+227,Pier,Detti,2019-06-19,37,Primary School
+228,Vittorio,Antonetti,2020-12-25,45,Master's Degree
+229,Ricciotti,Rossetti,2021-09-16,36,Ph.D.
+230,Romeo,Venturi,2023-06-28,48,High School
+231,Leonardo,Franceschi,2023-03-09,27,Secondary School
+232,Rocco,Moretti,2022-08-25,48,Ph.D.
+233,Ivan,Antonetti,2023-09-24,53,Bachelor's Degree
+234,Lando,Mercalli,2019-07-30,39,Master's Degree
+235,Roberto,Ramazzotti,2018-09-17,27,Bachelor's Degree
+236,Fausto,Mimun,2021-05-03,55,Master's Degree
+237,Giacinto,Dovara,2018-03-25,21,Primary School
+238,Romana,Ruffini,2020-04-09,32,High School
+239,Nadia,Nievo,2020-02-13,23,Primary School
+240,Gianpietro,Pavone,2018-09-07,60,Primary School
+241,Rosaria,Colletti,2019-12-12,39,Ph.D.
+242,Laureano,Bompiani,2018-06-25,45,Primary School
+243,Domenico,Bergoglio,2019-05-19,43,Ph.D.
+244,Dolores,Boldù,2018-11-30,49,Primary School
+245,Salvi,Ricolfi,2022-02-13,25,Primary School
+246,Natalia,Albertini,2020-02-20,32,Master's Degree
+247,Flavia,Rosiello,2018-02-25,59,Primary School
+248,Marissa,Bonolis,2019-06-01,26,High School
+249,Franco,Tomei,2020-09-14,46,Secondary School
+250,Etta,Ostinelli,2021-07-09,29,Master's Degree
+251,Baldassare,Cossiga,2021-08-30,29,Bachelor's Degree
+252,Tatiana,Botticelli,2022-01-15,28,Primary School
+253,Serafina,Garozzo,2023-10-12,57,Secondary School
+254,Giampaolo,Babati,2019-09-09,20,Master's Degree
+255,Matteo,Grassi,2023-06-07,24,Ph.D.
+256,Livio,Loredan,2019-12-26,42,Ph.D.
+257,Livio,Emanuelli,2019-07-25,22,High School
+258,Antonietta,Bataglia,2020-07-29,21,Master's Degree
+259,Paloma,Pisano,2017-11-11,54,Primary School
+260,Victoria,Mimun,2019-05-20,43,Master's Degree
+261,Pierluigi,Aulenti,2018-06-22,26,Primary School
+262,Fortunata,Villadicani,2021-03-28,45,Primary School
+263,Flavio,Agostinelli,2019-11-26,38,Ph.D.
+264,Evangelista,Vigliotti,2020-01-30,56,Bachelor's Degree
+265,Lodovico,Federici,2021-10-30,49,High School
+266,Gilberto,Bellucci,2021-09-03,59,High School
+267,Roberta,Pellegrini,2018-03-03,21,Secondary School
+268,Ludovico,Doria,2023-10-10,36,Secondary School
+269,Melina,Siffredi,2019-04-12,54,Ph.D.
+270,Renzo,Pozzecco,2020-12-02,50,High School
+271,Fabio,Vespa,2020-10-07,53,Master's Degree
+272,Piersanti,Saraceno,2021-10-07,57,Secondary School
+273,Milena,Puglisi,2023-08-16,34,Primary School
+274,Vittorio,Zichichi,2021-03-14,53,Secondary School
+275,Piergiorgio,Renier,2018-11-14,34,High School
+276,Claudia,Trussardi,2018-12-16,51,Secondary School
+277,Sabatino,Berrè,2018-03-31,33,High School
+278,Ubaldo,Soffici,2021-07-07,47,Ph.D.
+279,Jolanda,Bellucci,2018-10-29,42,Secondary School
+280,Severino,Bazzi,2018-11-29,26,Ph.D.
+281,Valentina,Lamborghini,2018-06-27,19,Ph.D.
+282,Ilaria,Goldstein,2022-07-09,39,Primary School
+283,Tullio,Capone,2020-02-01,54,Ph.D.
+284,Cipriano,Spallanzani,2022-11-26,20,Primary School
+285,Piergiorgio,Pugliese,2022-03-02,25,Master's Degree
+286,Micheletto,Boccioni,2020-09-22,56,Bachelor's Degree
+287,Margherita,Iannotti,2020-05-17,33,Bachelor's Degree
+288,Federica,Franceschi,2023-08-28,47,Bachelor's Degree
+289,Amalia,Cesarotti,2023-09-25,38,Primary School
+290,Ennio,Boitani,2022-11-29,51,Primary School
+291,Paoletta,Bonanno,2020-11-13,52,Ph.D.
+292,Serafina,Letta,2021-07-10,42,Primary School
+293,Antonia,Monicelli,2023-02-19,27,Bachelor's Degree
+294,Piermaria,Valier,2021-07-14,32,Ph.D.
+295,Matilda,Cristoforetti,2023-08-18,25,Primary School
+296,Enzio,Zamorani,2022-07-15,60,Bachelor's Degree
+297,Pierpaolo,Catenazzi,2022-03-01,31,Secondary School
+298,Morena,Roccabonella,2023-08-11,57,Bachelor's Degree
+299,Liberto,Pistoletto,2021-01-05,40,Secondary School
+300,Gino,Ravaglioli,2022-08-19,36,High School
+301,Tatiana,Pace,2022-11-14,57,Ph.D.
+302,Mariano,Peruzzi,2023-04-15,40,Bachelor's Degree
+303,Girolamo,Leone,2023-08-30,42,Secondary School
+304,Cristina,Paoletti,2018-12-19,40,Ph.D.
+305,Laureano,Cristoforetti,2018-06-17,36,Ph.D.
+306,Ivo,Monteverdi,2022-06-23,45,High School
+307,Baccio,Barbarigo,2023-10-16,51,Primary School
+308,Viridiana,Rosselli,2021-08-27,55,Master's Degree
+309,Giosuè,Mezzetta,2019-02-14,31,Ph.D.
+310,Enrico,Bevilacqua,2018-01-31,29,Bachelor's Degree
+311,Livia,Vecellio,2023-03-31,22,Primary School
+312,Simone,Gozzi,2020-12-16,20,Primary School
+313,Nedda,Napolitano,2018-10-17,29,Secondary School
+314,Romolo,Dossetti,2018-04-26,30,Primary School
+315,Barbara,Taliani,2021-01-15,49,Bachelor's Degree
+316,Micheletto,Monteverdi,2023-07-28,60,High School
+317,Ruggiero,Taliercio,2018-04-27,18,Bachelor's Degree
+318,Iolanda,Mengolo,2022-08-27,48,High School
+319,Ignazio,Pagnotto,2022-01-20,57,Bachelor's Degree
+320,Adelmo,Verdi,2022-03-20,38,Bachelor's Degree
+321,Monica,Barzini,2020-05-25,47,Primary School
+322,Concetta,Pisaroni,2023-10-26,30,Secondary School
+323,Lazzaro,Mercadante,2019-12-29,59,Secondary School
+324,Tiziana,Guarato,2022-07-27,22,High School
+325,Amleto,Pavanello,2019-07-31,42,Bachelor's Degree
+326,Pierpaolo,Gabbana,2021-11-21,27,Master's Degree
+327,Calogero,Roccabonella,2023-02-05,34,Primary School
+328,Giosuè,Petralli,2018-05-21,35,Secondary School
+329,Eugenia,Fabrizi,2020-11-19,36,Ph.D.
+330,Oreste,Zamorani,2018-05-02,33,Primary School
+331,Ninetta,Rizzoli,2022-06-02,48,Primary School
+332,Guglielmo,Belletini,2021-09-15,40,High School
+333,Silvestro,Perini,2021-03-02,38,Primary School
+334,Daria,Luria,2017-12-03,19,Ph.D.
+335,Imelda,Giannelli,2020-11-28,47,Bachelor's Degree
+336,Michela,Comboni,2020-10-13,27,Primary School
+337,Annamaria,Ossola,2021-01-08,60,High School
+338,Zaira,Venditti,2020-09-20,36,Bachelor's Degree
+339,Pomponio,Vitturi,2021-09-20,33,Ph.D.
+340,Greca,Pelli,2018-04-16,28,Primary School
+341,Nicolò,Ferrata,2022-12-30,30,Ph.D.
+342,Alfredo,Sforza,2023-05-31,19,Master's Degree
+343,Renzo,Esposito,2018-09-06,32,Ph.D.
+344,Ermenegildo,Lussu,2023-03-20,23,Master's Degree
+345,Ippazio,Bixio,2019-10-14,43,Ph.D.
+346,Ludovico,Guarneri,2021-06-28,41,Ph.D.
+347,Flora,Burcardo,2022-03-04,37,Secondary School
+348,Gioacchino,Bova,2018-03-14,47,High School
+349,Etta,Cheda,2022-03-04,36,Primary School
+350,Simonetta,Baresi,2020-12-18,47,Secondary School
+351,Donato,Bosio,2022-09-03,33,Secondary School
+352,Priscilla,Abatantuono,2023-08-12,31,Primary School
+353,Amleto,Ferraris,2020-02-29,59,Master's Degree
+354,Nadia,Veltroni,2021-08-20,45,Ph.D.
+355,Pier,Soranzo,2022-07-20,35,Primary School
+356,Letizia,Torricelli,2023-04-27,47,Primary School
+357,Nedda,Battelli,2023-02-10,46,Ph.D.
+358,Riccardo,Filangieri,2018-06-27,44,Secondary School
+359,Federigo,Marconi,2020-01-18,20,Primary School
+360,Imelda,Serao,2018-11-12,53,Master's Degree
+361,Michele,Trombetta,2022-12-08,54,High School
+362,Benvenuto,Turati,2019-01-11,24,Ph.D.
+363,Arsenio,Sorrentino,2019-03-03,22,Secondary School
+364,Piero,Cignaroli,2020-02-05,49,Primary School
+365,Lina,Beccaria,2021-07-28,48,Primary School
+366,Michelotto,Vianello,2020-05-18,33,Ph.D.
+367,Emilio,Fo,2018-05-04,21,Bachelor's Degree
+368,Sante,Morpurgo,2018-12-12,43,Primary School
+369,Ivan,Badoglio,2023-01-03,21,High School
+370,Mariana,Asprucci,2020-08-01,44,Bachelor's Degree
+371,Camillo,Rensi,2019-06-17,37,Ph.D.
+372,Eraldo,Moretti,2023-06-23,21,Primary School
+373,Marcello,Lovato,2017-11-08,30,Secondary School
+374,Donatella,Travaglia,2022-10-18,50,Ph.D.
+375,Gianpaolo,Zaguri,2018-10-10,43,Secondary School
+376,Delfino,Gabba,2021-04-22,52,Secondary School
+377,Romolo,Pacelli,2018-10-16,23,High School
+378,Arnaldo,Renault,2023-06-04,24,Primary School
+379,Rosalia,Maderna,2018-05-26,52,Secondary School
+380,Patrizio,Guglielmi,2022-04-04,56,Primary School
+381,Ferdinando,Borghese,2021-05-22,31,Master's Degree
+382,Sergius,Nitti,2021-07-21,19,Bachelor's Degree
+383,Piermaria,Marconi,2018-02-28,52,High School
+384,Luciana,Gentileschi,2019-08-22,49,Bachelor's Degree
+385,Caterina,Canevascini,2021-01-13,54,Bachelor's Degree
+386,Ludovica,Proietti,2018-01-22,51,Ph.D.
+387,Stefania,Pizzamano,2022-11-16,26,Ph.D.
+388,Martino,Sollima,2018-10-15,18,High School
+389,Adriano,Baresi,2021-11-20,46,Secondary School
+390,Rosa,Palumbo,2019-09-26,53,Primary School
+391,Leone,Emo,2023-01-11,26,High School
+392,Natalia,Dossi,2023-01-02,48,Primary School
+393,Allegra,Niscoromni,2019-12-14,34,Bachelor's Degree
+394,Luigi,Sanudo,2019-02-02,38,Secondary School
+395,Emilio,Trincavelli,2018-08-28,26,Master's Degree
+396,Graziella,Deledda,2018-01-15,23,Bachelor's Degree
+397,Jolanda,Giunti,2019-09-13,33,Ph.D.
+398,Fernanda,Tolentino,2019-07-07,23,Bachelor's Degree
+399,Adriana,Micheletti,2021-11-17,54,Ph.D.
+400,Ottone,Zamorani,2023-09-26,33,High School
+401,Federica,Iacobucci,2021-02-11,21,Bachelor's Degree
+402,Camilla,Priuli,2019-06-01,33,Primary School
+403,Francesco,Collina,2022-03-19,30,High School
+404,Alfredo,Poerio,2021-09-25,41,Primary School
+405,Calogero,Canevascini,2017-12-04,22,Bachelor's Degree
+406,Rosaria,Greco,2019-10-15,38,Bachelor's Degree
+407,Piergiuseppe,Peano,2019-04-03,53,Primary School
+408,Patrizia,Sbarbaro,2021-01-06,36,Ph.D.
+409,Gianluigi,Agnesi,2023-07-26,26,Master's Degree
+410,Rosa,Riccati,2023-03-04,19,Bachelor's Degree
+411,Loredana,Letta,2023-02-25,27,Ph.D.
+412,Atenulf,Togliatti,2018-12-31,59,Primary School
+413,Liliana,Bonino,2022-09-11,21,Ph.D.
+414,Guido,Finotto,2022-03-02,45,High School
+415,Giorgia,Barsanti,2018-05-20,24,Bachelor's Degree
+416,Massimo,Fattori,2019-12-25,53,Secondary School
+417,Milena,Tasso,2020-02-10,38,Primary School
+418,Aria,Rubbia,2020-04-20,37,Secondary School
+419,Enrico,Balotelli,2020-06-22,26,High School
+420,Adriana,Mondadori,2022-08-14,49,Ph.D.
+421,Giovanna,Aldobrandi,2020-07-01,38,High School
+422,Dino,Natta,2022-07-04,20,Primary School
+423,Carolina,Magnani,2021-08-19,52,Ph.D.
+424,Simone,Garobbio,2021-01-02,53,Primary School
+425,Alina,Einaudi,2022-08-30,19,Primary School
+426,Agostino,Praga,2022-01-16,21,Secondary School
+427,Paola,Benussi,2022-02-07,40,Bachelor's Degree
+428,Diana,Cagnotto,2021-04-25,34,Master's Degree
+429,Eraldo,Polesel,2019-07-08,19,Secondary School
+430,Vincenzo,Petrucelli,2022-09-25,51,Bachelor's Degree
+431,Federico,Beccaria,2017-11-29,26,High School
+432,Saverio,Tiepolo,2023-06-02,30,High School
+433,Ubaldo,Federici,2019-03-02,40,Primary School
+434,Monica,Tarantini,2022-12-05,28,Master's Degree
+435,Maura,Sorrentino,2021-11-21,57,Secondary School
+436,Evangelista,Castelli,2022-10-16,24,High School
+437,Filippa,Guariento,2020-05-16,51,Master's Degree
+438,Greca,Visconti,2023-08-07,28,Ph.D.
+439,Annetta,Iacobucci,2019-08-22,27,Bachelor's Degree
+440,Dolores,Chechi,2023-03-14,45,Bachelor's Degree
+441,Gelsomina,Camuccini,2017-11-11,25,High School
+442,Imelda,Mocenigo,2021-06-21,38,Bachelor's Degree
+443,Francesco,Barcaccia,2021-03-04,32,Bachelor's Degree
+444,Giuliano,Doria,2021-09-09,56,Bachelor's Degree
+445,Stefania,Leopardi,2020-11-29,28,Bachelor's Degree
+446,Gloria,Mazzi,2017-11-10,21,Ph.D.
+447,Biagio,Foà,2021-03-04,28,Master's Degree
+448,Danilo,Pinamonte,2020-03-27,48,Bachelor's Degree
+449,Gianmarco,Nitti,2022-05-28,56,Primary School
+450,Adriano,Murialdo,2019-12-02,24,Secondary School
+451,Maura,Comeriato,2019-03-22,44,Ph.D.
+452,Bartolomeo,Sraffa,2020-09-26,21,Secondary School
+453,Annunziata,Muratori,2021-01-23,18,Primary School
+454,Armando,Sorrentino,2019-09-23,54,Secondary School
+455,Adriana,Canova,2020-11-29,48,Ph.D.
+456,Lorenzo,Gianetti,2019-06-10,40,Bachelor's Degree
+457,Giorgio,Guidotti,2017-12-27,47,Secondary School
+458,Durante,Vendetti,2022-09-06,30,High School
+459,Baldassare,Bresciani,2018-07-20,30,High School
+460,Giovanni,Fittipaldi,2018-12-19,53,Master's Degree
+461,Alessandro,Ossani,2018-10-19,40,Secondary School
+462,Fernanda,Scaduto,2021-03-22,41,High School
+463,Francesca,Cutrufo,2017-12-18,33,Ph.D.
+464,Griselda,Camuccini,2019-09-08,21,Master's Degree
+465,Lorenzo,Carli,2019-04-26,49,Bachelor's Degree
+466,Anita,Spadafora,2019-04-19,40,Secondary School
+467,Lauretta,Galtarossa,2021-08-11,27,Secondary School
+468,Rosina,Terragni,2021-12-05,49,Bachelor's Degree
+469,Sante,Taliercio,2020-02-18,20,Primary School
+470,Carmelo,Disdero,2022-09-11,28,Bachelor's Degree
+471,Giacobbe,Ottino,2022-12-04,24,Ph.D.
+472,Monica,Coppola,2022-05-13,36,Secondary School
+473,Pierpaolo,Morucci,2018-07-16,38,Bachelor's Degree
+474,Cirillo,Mazzacurati,2023-09-25,48,Master's Degree
+475,Carmelo,Tencalla,2021-08-20,57,Primary School
+476,Mariano,Musatti,2021-07-19,30,Bachelor's Degree
+477,Tiziana,Moccia,2021-10-17,18,Primary School
+478,Nina,Foa,2019-08-05,50,Master's Degree
+479,Raimondo,Murialdo,2020-05-16,55,Master's Degree
+480,Maria,Doglioni,2020-05-02,29,Bachelor's Degree
+481,Caterina,Dellucci,2018-01-29,19,High School
+482,Ansaldo,Solari,2020-09-24,19,Master's Degree
+483,Pellegrino,Baglioni,2022-10-16,37,Master's Degree
+484,Vittoria,Magnani,2020-09-19,42,Master's Degree
+485,Marissa,Gualandi,2023-04-11,48,Master's Degree
+486,Ranieri,Juvara,2020-01-20,43,Bachelor's Degree
+487,Rolando,Zaccagnini,2018-02-20,55,Ph.D.
+488,Giuseppe,Vergassola,2020-06-22,53,Ph.D.
+489,Gian,Fibonacci,2019-04-03,21,Master's Degree
+490,Silvia,Nitto,2023-03-19,27,Bachelor's Degree
+491,Gloria,Piane,2023-05-02,41,Master's Degree
+492,Melina,Bonino,2019-01-18,19,Ph.D.
+493,Nino,Galvani,2022-12-30,51,Secondary School
+494,Paoletta,Monduzzi,2020-12-06,36,High School
+495,Lucia,Baresi,2019-11-08,22,Primary School
+496,Martino,Agnesi,2019-07-22,23,High School
+497,Arnulfo,Galtarossa,2019-05-02,57,Master's Degree
+498,Ruggiero,Paolucci,2022-07-28,44,High School
+499,Maria,Deledda,2023-04-14,18,High School
+500,Annunziata,Chindamo,2019-06-16,33,Primary School
+501,Aria,Rocca,2020-01-16,20,Primary School
+502,Geronimo,Bernardini,2020-02-25,60,High School
+503,Stella,Rienzo,2019-01-10,40,Ph.D.
+504,Adele,Luzi,2022-04-24,56,Master's Degree
+505,Gionata,Scarfoglio,2020-05-15,53,Secondary School
+506,Edoardo,Albertini,2020-10-24,48,Master's Degree
+507,Luchino,Speri,2022-09-20,23,Primary School
+508,Luchino,Volta,2021-11-22,33,High School
+509,Serafina,Chiaramonte,2021-01-30,52,Bachelor's Degree
+510,Orlando,Stoppani,2023-08-16,43,Primary School
+511,Giuliano,Bodoni,2023-08-02,60,Bachelor's Degree
+512,Franco,Giammusso,2021-11-09,42,Secondary School
+513,Simonetta,Boccioni,2018-03-02,59,Master's Degree
+514,Pasquale,Camuccini,2020-04-22,31,Ph.D.
+515,Liana,Polizzi,2020-09-18,57,High School
+516,Eleanora,Modigliani,2019-09-10,42,High School
+517,Lidia,Nicoletti,2023-09-15,24,Ph.D.
+518,Biagio,Praga,2020-03-28,53,Ph.D.
+519,Romina,Tagliafierro,2021-09-30,41,Secondary School
+520,Clelia,Callegaro,2020-10-09,24,Secondary School
+521,Ivo,Maspero,2020-02-15,36,High School
+522,Victoria,Colletti,2021-12-02,35,Master's Degree
+523,Clelia,Disdero,2018-02-07,22,Secondary School
+524,Stefania,Malipiero,2018-06-23,22,Ph.D.
+525,Lauretta,Ferraris,2017-11-23,44,Secondary School
+526,Gino,Cimini,2021-09-08,32,Ph.D.
+527,Evangelista,Antonacci,2018-07-24,22,Master's Degree
+528,Federica,Vianello,2019-08-13,54,Ph.D.
+529,Bianca,Calgari,2018-11-07,58,Master's Degree
+530,Stefani,Montesano,2018-03-08,44,Bachelor's Degree
+531,Monica,Renier,2018-12-06,32,Bachelor's Degree
+532,Laureano,Bignardi,2018-03-06,48,Master's Degree
+533,Gabriella,Bernini,2018-07-19,56,Secondary School
+534,Ermanno,Caracciolo,2022-12-30,37,Bachelor's Degree
+535,Armando,Palombi,2023-07-01,35,Primary School
+536,Rosaria,Maderna,2021-06-09,56,High School
+537,Donatello,Malaparte,2022-07-19,29,Bachelor's Degree
+538,Ernesto,Tropea,2021-10-06,19,Secondary School
+539,Tiziana,Antonini,2022-08-27,25,High School
+540,Romolo,Draghi,2022-05-04,54,Master's Degree
+541,Filippa,Beffa,2022-01-15,56,Master's Degree
+542,Ippazio,Sanudo,2018-04-01,29,Bachelor's Degree
+543,Carla,Carfagna,2022-09-25,30,High School
+544,Nadia,Cociarelli,2018-09-14,56,Primary School
+545,Gianluigi,Tolentino,2022-06-15,59,Ph.D.
+546,Gaspare,Boezio,2021-10-11,39,Ph.D.
+547,Gioachino,Trotta,2023-10-12,22,Primary School
+548,Matteo,Napolitano,2022-09-27,49,Secondary School
+549,Piermaria,Pirelli,2021-10-20,51,Primary School
+550,Bianca,Ceci,2020-08-12,38,Secondary School
+551,Cipriano,Franzese,2022-03-24,47,Ph.D.
+552,Sebastiano,Tartini,2019-09-27,42,Secondary School
+553,Loretta,Bevilacqua,2020-06-26,57,Bachelor's Degree
+554,Ottone,Monteverdi,2020-08-28,24,Primary School
+555,Vincenza,Letta,2022-10-16,30,Ph.D.
+556,Emilio,Iannelli,2020-08-23,28,Primary School
+557,Costanzo,Sforza,2019-11-22,23,High School
+558,Ninetta,Niscoromni,2023-02-26,27,High School
+559,Damiano,Pascarella,2017-11-05,57,Primary School
+560,Liberto,Randazzo,2021-01-07,54,Bachelor's Degree
+561,Pier,Squarcione,2018-01-22,38,Secondary School
+562,Alfredo,Zabarella,2017-11-20,53,Master's Degree
+563,Geronimo,Pedrazzini,2021-08-27,58,Primary School
+564,Luca,Novaro,2021-02-17,41,Primary School
+565,Ronaldo,Finotto,2023-01-30,22,Secondary School
+566,Milena,Gregori,2018-03-28,31,High School
+567,Niccolò,Mancini,2021-12-30,41,Secondary School
+568,Ludovico,Paganini,2020-08-24,47,Ph.D.
+569,Nico,Crispi,2019-01-29,23,Secondary School
+570,Pierangelo,Buonauro,2019-09-20,43,Master's Degree
+571,Ottavio,Ruberto,2022-09-23,47,Bachelor's Degree
+572,Alina,Argento,2022-07-30,18,Primary School
+573,Annetta,Agazzi,2022-11-24,56,High School
+574,Vincentio,Peruzzi,2021-05-14,26,Ph.D.
+575,Rocco,Scalera,2023-01-08,18,Bachelor's Degree
+576,Lauretta,Cibin,2023-05-05,42,High School
+577,Rosina,Pavarotti,2018-07-19,22,Bachelor's Degree
+578,Luisa,Vecellio,2023-10-02,36,Primary School
+579,Melina,Ruggeri,2018-10-13,25,Bachelor's Degree
+580,Teresa,Vecellio,2018-07-03,40,Ph.D.
+581,Carmelo,Giannotti,2022-12-03,30,High School
+582,Fortunata,Botta,2021-05-28,42,Secondary School
+583,Patrizio,Manolesso,2021-02-22,36,Bachelor's Degree
+584,Luciano,Ferrabosco,2018-01-08,59,Ph.D.
+585,Graziano,Maffei,2021-10-26,23,Master's Degree
+586,Angelina,Gussoni,2018-03-09,25,High School
+587,Calogero,Toldo,2022-05-18,44,High School
+588,Michelotto,Amaldi,2019-11-13,22,Master's Degree
+589,Adamo,Cuda,2022-10-18,45,Primary School
+590,Virgilio,Salgari,2021-01-16,32,Bachelor's Degree
+591,Enrico,Luciani,2018-02-11,33,High School
+592,Serena,Pulci,2018-09-28,60,Ph.D.
+593,Erika,Vitturi,2018-01-04,22,Secondary School
+594,Barbara,Lupo,2022-09-20,35,Primary School
+595,Gianna,Fornaciari,2019-05-21,53,Bachelor's Degree
+596,Romana,Fracci,2021-01-08,45,Secondary School
+597,Tonia,Ferrazzi,2019-01-17,52,Bachelor's Degree
+598,Veronica,Tropea,2019-01-20,33,Primary School
+599,Giacomo,Veltroni,2018-07-28,46,High School
+600,Alessia,Capone,2017-12-09,26,Primary School
+601,Nicola,Luxardo,2022-06-09,18,Secondary School
+602,Fernanda,Conti,2022-12-26,41,Primary School
+603,Vincentio,Nugnes,2019-01-24,19,High School
+604,Rodolfo,Casaleggio,2019-12-13,53,Bachelor's Degree
+605,Vincenza,Ginesio,2018-08-18,42,Master's Degree
+606,Fedele,Cannizzaro,2020-09-01,23,Primary School
+607,Gianfranco,Agostinelli,2023-07-01,31,Secondary School
+608,Donatella,Traversa,2022-11-18,46,Primary School
+609,Alderano,Zaccagnini,2018-08-02,48,Master's Degree
+610,Rita,Polesel,2019-03-29,23,High School
+611,Fiorino,Calbo,2022-09-03,56,Ph.D.
+612,Luigi,Ferrabosco,2020-10-14,48,Master's Degree
+613,Gian,Gualandi,2021-05-04,19,Primary School
+614,Bruno,Ferrante,2021-08-15,28,Bachelor's Degree
+615,Roberto,Mastroianni,2019-07-16,50,Bachelor's Degree
+616,Federico,Taliani,2018-03-09,55,Ph.D.
+617,Eva,Sokolov,2023-04-13,59,Master's Degree
+618,Sylvia,Agnesi,2022-02-19,58,Master's Degree
+619,Clelia,Rosiello,2019-08-13,20,Secondary School
+620,Aurora,Foconi,2022-06-11,19,Bachelor's Degree
+621,Carolina,Bixio,2023-03-27,44,Bachelor's Degree
+622,Fausto,Fibonacci,2022-08-29,42,Primary School
+623,Girolamo,Garobbio,2018-12-19,28,High School
+624,Guido,Mazzi,2020-12-25,27,High School
+625,Donatello,Fogazzaro,2020-09-29,30,Bachelor's Degree
+626,Priscilla,Gemito,2023-05-07,22,High School
+627,Antonietta,Marconi,2018-03-05,31,Bachelor's Degree
+628,Marisa,Galvani,2018-04-02,44,Secondary School
+629,Bettina,Squarcione,2019-01-16,35,Secondary School
+630,Allegra,Soprano,2021-06-26,48,High School
+631,Benvenuto,Bertoli,2023-08-17,36,Primary School
+632,Baccio,Cutrufo,2019-12-12,60,Ph.D.
+633,Luisa,Barsanti,2018-01-21,25,Secondary School
+634,Fredo,Lettiere,2020-11-09,47,Primary School
+635,Margherita,Scalfaro,2021-01-01,22,Ph.D.
+636,Sophia,Mastroianni,2020-11-22,42,Primary School
+637,Angelo,Venditti,2019-11-03,44,Secondary School
+638,Melina,Pasqua,2020-08-27,30,Ph.D.
+639,Irma,Fuseli,2023-02-15,19,Ph.D.
+640,Romolo,Peano,2018-12-08,49,High School
+641,Gianna,Morpurgo,2020-04-05,56,Bachelor's Degree
+642,Vito,Carli,2019-11-27,26,Bachelor's Degree
+643,Pompeo,Agostinelli,2020-03-07,33,Primary School
+644,Ermenegildo,Mascagni,2022-05-15,41,Master's Degree
+645,Cipriano,Inzaghi,2018-06-27,19,Primary School
+646,Nina,Piane,2020-11-13,29,Bachelor's Degree
+647,Michele,Fanucci,2019-08-07,23,High School
+648,Tina,Trapani,2020-05-04,26,Ph.D.
+649,Giorgia,Oliboni,2021-03-01,41,High School
+650,Baldassare,Pisani,2021-07-31,31,Secondary School
+651,Veronica,Piccinni,2022-09-01,36,Master's Degree
+652,Isabella,Parpinel,2020-07-11,53,Primary School
+653,Benito,Grasso,2018-04-01,36,Primary School
+654,Donatella,Gregori,2022-07-14,24,Ph.D.
+655,Sandro,Camiscione,2018-10-02,43,High School
+656,Annibale,Bodoni,2021-11-23,37,High School
+657,Serafina,Tamburini,2019-12-17,48,Master's Degree
+658,Gianluigi,Bragaglia,2020-04-03,55,Bachelor's Degree
+659,Sergius,Venier,2023-06-15,33,Master's Degree
+660,Livia,Gioberti,2023-09-04,26,High School
+661,Piergiorgio,Bottaro,2020-01-29,19,Master's Degree
+662,Gioacchino,Beffa,2020-06-29,18,Ph.D.
+663,Ludovica,Bonino,2019-12-25,42,Secondary School
+664,Caterina,Cocci,2020-05-11,33,Bachelor's Degree
+665,Salvatore,Bernini,2021-10-30,60,Ph.D.
+666,Paolo,Bembo,2021-04-23,21,Primary School
+667,Federico,Condoleo,2019-09-02,18,Secondary School
+668,Osvaldo,Parpinel,2020-05-10,44,Secondary School
+669,Romina,Vanvitelli,2023-03-15,50,Ph.D.
+670,Armando,Fagotto,2019-01-19,57,Secondary School
+671,Caterina,Boitani,2021-07-17,37,Primary School
+672,Manuel,Morucci,2023-09-13,50,Secondary School
+673,Emma,Fantoni,2020-11-04,20,Ph.D.
+674,Gioele,Valier,2020-04-30,42,High School
+675,Dolores,Condoleo,2019-02-06,19,Master's Degree
+676,Annamaria,Mogherini,2022-06-26,37,Bachelor's Degree
+677,Gelsomina,Seddio,2021-07-10,46,Primary School
+678,Annalisa,Mercadante,2018-11-07,59,Primary School
+679,Paloma,Foconi,2021-11-15,41,Master's Degree
+680,Vincenza,Antonetti,2022-08-07,51,High School
+681,Berenice,Montanari,2021-10-24,55,Master's Degree
+682,Raffaellino,Segrè,2019-10-30,42,Bachelor's Degree
+683,Susanna,Filippini,2019-11-05,37,Secondary School
+684,Ettore,Villarosa,2020-07-02,55,Ph.D.
+685,Luisa,Metella,2020-03-11,22,Ph.D.
+686,Arturo,Vismara,2021-08-14,46,Primary School
+687,Liliana,Golino,2022-05-31,31,Master's Degree
+688,Paolo,Desio,2022-07-16,57,Bachelor's Degree
+689,Gianpietro,Tarantini,2022-08-19,24,Master's Degree
+690,Marisa,Gori,2022-11-09,37,Master's Degree
+691,Alfio,Querini,2020-04-19,41,Bachelor's Degree
+692,Alfredo,Bocelli,2020-08-04,26,Bachelor's Degree
+693,Sophia,Mantegna,2017-11-29,40,Primary School
+694,Calogero,Aulenti,2023-10-23,49,Primary School
+695,Carmelo,Sforza,2020-11-01,54,Master's Degree
+696,Giada,Tasca,2020-07-29,31,Master's Degree
+697,Gionata,Ricci,2022-04-23,47,Primary School
+698,Renata,Marcacci,2020-03-28,21,Ph.D.
+699,Alphons,Fuseli,2020-11-08,23,Primary School
+700,Azeglio,Samele,2019-12-16,39,Secondary School
+701,Veronica,Parpinel,2017-12-25,41,High School
+702,Coriolano,Dallara,2023-06-28,34,High School
+703,Fausto,Chiesa,2017-11-14,48,Secondary School
+704,Lazzaro,Cabibbo,2021-07-27,25,High School
+705,Giovanna,Siffredi,2021-06-28,34,Primary School
+706,Ornella,Brugnaro,2021-04-22,58,High School
+707,Edoardo,Ritacca,2023-10-11,42,Secondary School
+708,Giacomo,Musatti,2021-09-21,58,Secondary School
+709,Guglielmo,Innocenti,2023-06-16,34,Master's Degree
+710,Eugenia,Scotto,2018-10-18,46,Secondary School
+711,Tatiana,Porzio,2020-08-04,56,Secondary School
+712,Nanni,Soprano,2019-05-11,54,Primary School
+713,Laura,Chindamo,2019-07-05,40,Master's Degree
+714,Victoria,Cilibrasi,2018-12-03,25,Primary School
+715,Serena,Gentili,2022-05-03,47,Primary School
+716,Rosario,Tutino,2021-09-14,57,Bachelor's Degree
+717,Fredo,Bataglia,2017-11-08,59,Primary School
+718,Fausto,Taliani,2022-12-03,19,Master's Degree
+719,Emma,Piccio,2020-09-13,44,Primary School
+720,Bruno,Ceri,2019-07-08,44,Ph.D.
+721,Cassandra,Treves,2022-04-28,51,Master's Degree
+722,Maria,Crispi,2018-04-29,46,Master's Degree
+723,Donatella,Olivetti,2019-11-17,54,Secondary School
+724,Camilla,Cristoforetti,2019-01-04,52,Ph.D.
+725,Gianmarco,Tozzo,2023-06-24,25,Ph.D.
+726,Cecilia,Blasi,2019-09-08,22,Ph.D.
+727,Isabella,Farinelli,2020-12-12,55,Primary School
+728,Lidia,Moschino,2023-07-31,20,Primary School
+729,Agnolo,Moresi,2022-06-07,47,High School
+730,Valentina,Palazzo,2023-04-15,59,Master's Degree
+731,Simone,Colletti,2019-07-15,52,Ph.D.
+732,Lucia,Michelangeli,2018-08-15,22,Ph.D.
+733,Milo,Morosini,2022-09-05,35,Primary School
+734,Goffredo,Prada,2022-01-07,43,High School
+735,Matilda,Fischetti,2023-03-05,34,Bachelor's Degree
+736,Venancio,Manunta,2019-01-08,37,High School
+737,Melissa,Gibilisco,2020-09-26,18,High School
+738,Benedetto,Cuomo,2022-09-06,51,Ph.D.
+739,Gianluca,Gonzaga,2020-01-14,49,Bachelor's Degree
+740,Piero,Roth,2018-12-20,42,Secondary School
+741,Nino,Tarantini,2022-08-09,59,Secondary School
+742,Liliana,Muratori,2017-12-16,34,High School
+743,Roberto,Smirnoff,2019-04-16,57,Secondary School
+744,Annalisa,Babati,2017-11-21,47,Primary School
+745,Luciano,Comolli,2022-05-06,27,High School
+746,Giulio,Rizzoli,2018-11-27,23,Ph.D.
+747,Ranieri,Malipiero,2018-03-21,45,Bachelor's Degree
+748,Ugo,Mazzini,2023-09-26,57,Master's Degree
+749,Gian,Tamborini,2018-06-21,59,Bachelor's Degree
+750,Giosuè,Tencalla,2020-06-24,29,Secondary School

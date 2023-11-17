@@ -1,0 +1,501 @@
+,location,loc_id
+0,"15 Piazzale Cadorna Luigi, Milano, MI 20123, 20123 Milano MI, Italy",1
+1,"166 - Dezza - Caravaggio, 20144 Milano MI, Italy",2
+2,"3 Via Bugatti Ettore, Milano, MI 20142, 20144 Milano MI, Italy",3
+3,"76 - Mentana, 20123 Milano MI, Italy",4
+4,"Alzaia Naviglio Grande, 146, 20144 Milano MI, Italy",5
+5,"Alzaia Naviglio Grande, 160, 20144 Milano MI, Italy",6
+6,"Alzaia Naviglio Grande, 22, 20144 Milano MI, Italy",7
+7,"Alzaia Naviglio Grande, 46, 20144 Milano MI, Italy",8
+8,"Alzaia Naviglio Pavese, 112, 20142 Milano MI, Italy",9
+9,"Alzaia Naviglio Pavese, 78, 20142 Milano MI, Italy",10
+10,"Alzaia Naviglio Pavese, 78/3, 20142 Milano MI, Italy",11
+11,"Area Cani - Papa, Viale Achille Papa, 63, 20151 Milano MI, Italy",12
+12,"Area Cani via Bordighera, Via Bordighera, 5, 20142 Milano MI, Italy",13
+13,"Area Cani, Via Lodovico Montegani, 10, 20141 Milano MI, Italy",14
+14,"Area cani - Napoli 2, Piazza Napoli, 20146 Milano MI, Italy",15
+15,"Arena, 20154 Milano MI, Italy",16
+16,"Bar Bianco, Viale Enrico Ibsen, 4, 20121 Milano MI, Italy",17
+17,"Bastioni di Porta Nuova, 12, 20121 Milano MI, Italy",18
+18,"C5M9+P3 Milan, Metropolitan City of Milan, Italy",19
+19,"Cairoli M1, 20121 Milano MI, Italy",20
+20,"Cairoli, 20121 Milano MI, Italy",21
+21,"Campetto Parrocchia S.Anna, Via Paolo Uccello, 12, 20148 Milano MI, Italy",22
+22,"Castelbarco, 20136 Milano MI, Italy",23
+23,"Castello Sforzesco, Piazza Castello, 2, 20121 Milano MI, Italy",24
+24,"Coni Zugna, 20123 Milano MI, Italy",25
+25,"Corso Como, 5, 20124 Milano MI, Italy",26
+26,"Corso Garibaldi, 115, 20121 Milano MI, Italy",27
+27,"Corso Garibaldi, 117, 20121 Milano MI, Italy",28
+28,"Corso Garibaldi, 50, 20121 Milano MI, Italy",29
+29,"Corso Italia, 42, 20122 Milano MI, Italy",30
+30,"Corso Luigi Manusardi, 10, 20136 Milano MI, Italy",31
+31,"Corso Magenta, 27, 20123 Milano MI, Italy",32
+32,"Corso Magenta, 32, 20123 Milano MI, Italy",33
+33,"Corso Magenta, 41, 20017 Milano MI, Italy",34
+34,"Corso Magenta, 42, 20123 Milano MI, Italy",35
+35,"Corso Magenta, 52, 20123 Milano MI, Italy",36
+36,"Corso Magenta, 54, 20123 Milano MI, Italy",37
+37,"Corso S. Gottardo, 15, 20136 Milano MI, Italy",38
+38,"Corso S. Gottardo, 36, 20136 Milano MI, Italy",39
+39,"Corso S. Gottardo, 51, 20136 Milano MI, Italy",40
+40,"Corso Sempione, 10, 20154 Milano MI, Italy",41
+41,"Corso Sempione, 35a, 20145 Milano MI, Italy",42
+42,"Corso Sempione, 52, 20145 Milano MI, Italy",43
+43,"Corso Sempione, 61, 20149 Milano MI, Italy",44
+44,"Corso Sempione, 89, 20149 Milano MI, Italy",45
+45,"Corso Vercelli, 14, 20145 Milano MI, Italy",46
+46,"Corso Vercelli, 30, 20145 Milano MI, Italy",47
+47,"Corso Vercelli, 37, 20144 Milano MI, Italy",48
+48,"Corso di Porta Ticinese, 32, 20123 Milano MI, Italy",49
+49,"Corso di Porta Ticinese, 5, 20143 Milano MI, Italy",50
+50,"Corso di Porta Ticinese, 96, 20123 Milano MI, Italy",51
+51,"Domodossola, 20145 Milano MI, Italy",52
+52,"F5CH+QR Milan, Metropolitan City of Milan, Italy",53
+53,"F5F8+HR Milan, Metropolitan City of Milan, Italy",54
+54,"F5G5+WW Milan, Metropolitan City of Milan, Italy",55
+55,"F5J3+5M Milan, Metropolitan City of Milan, Italy",56
+56,"F5QG+CR, 20154 Milan, Metropolitan City of Milan, Italy",57
+57,"F5QG+RF Milan, Metropolitan City of Milan, Italy",58
+58,"F5QH+C7 Milan, Metropolitan City of Milan, Italy",59
+59,"F5RF+JX Milan, Metropolitan City of Milan, Italy",60
+60,"F5RF+VP Milan, Metropolitan City of Milan, Italy",61
+61,"F5RG+GQ Milan, Metropolitan City of Milan, Italy",62
+62,"F5RG+HM Milan, Metropolitan City of Milan, Italy",63
+63,"F5RG+P2 Milan, Metropolitan City of Milan, Italy",64
+64,"F5RH+M9 Milan, Metropolitan City of Milan, Italy",65
+65,"F5VC+6Q Milan, Metropolitan City of Milan, Italy",66
+66,"F5VC+8H Milan, Metropolitan City of Milan, Italy",67
+67,"F5VC+CF Milan, Metropolitan City of Milan, Italy",68
+68,"Foro Buonaparte, 14, 20121 Milano MI, Italy",69
+69,"Foro Buonaparte, 15, 20121 Milano MI, Italy",70
+70,"Foro Buonaparte, 66, 20121 Milano MI, Italy",71
+71,"Francesco, Via Francesco Londonio, 1, 20154 Milano MI, Italy",72
+72,"Galleria Anna Castelli Ferrieri, 1A, 20145 Milano MI, Italy",73
+73,"Garibaldi M2 M5, 20154 Milano MI, Italy",74
+74,"Giardini del Bo Boffino, Via Savona, 103A, 20144 Milano MI, Italy",75
+75,"Giardini di via Tortona, Via Tortona, 20144 Milano MI, Italy",76
+76,"Giardino Bruno Munari, Via Toce, 9, 20159 Milano MI, Italy",77
+77,"Giardino Pippa Bacca, Via Tommaso da Cazzaniga, 20121 Milano MI, Italy",78
+78,"Giovanni Calvino, 13, 20154 Milano MI, Italy",79
+79,"Giovanni, Via Giovanni Rasori, 19, 20145 Milano MI, Italy",80
+80,"Ischia, Via Privata Ischia, 19, 20144 Milano MI, Italy",81
+81,"L.Go Quinto Alpini, 20145 Milano MI, Italy",82
+82,"Largo Agostino Gemelli, 1, 20123 Milano MI, Italy",83
+83,"Largo Marco Zanuso, 23, 20149 Milano MI, Italy",84
+84,"Leone, Via Leone Tolstoi, 66, 20146 Milano MI, Italy",85
+85,"Leone, Via Leone Tolstoi, 68, 20146 Milano MI, Italy",86
+86,"Milano Lancetti, 20158 Milano MI, Italy",87
+87,"Monumentale, 20154 Milano MI, Italy",88
+88,"Orti Fioriti CityLife, Via Demetrio Stratos, 20145 Milano MI, Italy",89
+89,"Ospedale San Paolo, 20142 Milano MI, Italy",90
+90,"P.Le Aquileia, 20144 Milano MI, Italy",91
+91,"P.Le Giulio Cesare, 20145 Milano MI, Italy",92
+92,"P.Za Belfanti, 20143 Milano MI, Italy",93
+93,"P.Za Caneva, 20155 Milano MI, Italy",94
+94,"P.Za Firenze, 20149 Milano MI, Italy",95
+95,"P.Za Maggi, 20142 Milano MI, Italy",96
+96,"P.Za Sei Febbraio, 20145 Milano MI, Italy",97
+97,"P.za Angelo Sraffa, 15, 20136 Milano MI, Italy",98
+98,"P.za Angelo Sraffa, 2-4, 20136 Milano MI, Italy",99
+99,"P.za Antonio Baiamonti, 24, 20154 Milano MI, Italy",100
+100,"P.za Cordusio, 2A, 20123 Milano MI, Italy",101
+101,"P.za Santissima Trinità, 5, 20154 Milano MI, Italy",102
+102,"P.za Sei Febbraio, 20145 Milano MI, Italy",103
+103,"P.za Sigmund Freud, 1, 20124 Milano MI, Italy",104
+104,"P.za del Duomo, 4, 20122 Milano MI, Italy",105
+105,"Pagano M1, 20145 Milano MI, Italy",106
+106,"Parco La Spezia, Via Spezia, 26/1, 20142 Milano MI, Italy",107
+107,"Parco Residenziale di VIVI VOLTRI, Via Antonio di Rudinì, 20142 Milano MI, Italy",108
+108,"Parco di via Argelati, 27, Via Filippo Argelati, 27, 20143 Milano MI, Italy",109
+109,"Piazza Antonio Gramsci, 14, 20154 Milano MI, Italy",110
+110,"Piazza Castello, 29, 20121 Milano MI, Italy",111
+111,"Piazza Castello, 4, 20121 Milano MI, Italy",112
+112,"Piazza Castello, 9, 20121 Milano MI, Italy",113
+113,"Piazza Gaetano Filangieri, 2, 20123 Milano MI, Italy",114
+114,"Piazza Gerusalemme, 6, 20154 Milano MI, Italy",115
+115,"Piazza Gian Antonio Maggi, 2, 20142 Milano MI, Italy",116
+116,"Piazza Giovanni XXIII, 1, 20145 Milano MI, Italy",117
+117,"Piazza Irnerio Carlo, 1, 20146 Milano MI, Italy",118
+118,"Piazza Irnerio, 13, 20146 Milano MI, Italy",119
+119,"Piazza Michelangelo Buonarroti, 24, 20145 Milano MI, Italy",120
+120,"Piazza Michelangelo Buonarroti, 30, 20145 Milano MI, Italy",121
+121,"Piazza Nicolò Tommaseo, 2, 20123 Milano MI, Italy",122
+122,"Piazza Piemonte, 2, 20145 Milano MI, Italy",123
+123,"Piazza Po, 6, 20144 Milano MI, Italy",124
+124,"Piazza Prealpi, 4, 20155 Milano MI, Italy",125
+125,"Piazza Prealpi, 5, 20155 Milano MI, Italy",126
+126,"Piazza S. Marco, 2, 20121 Milano MI, Italy",127
+127,"Piazza Sant'Ambrogio, 15, 20123 Milano MI, Italy",128
+128,"Piazza Sant'Eustorgio, 1, 20122 Milano MI, Italy",129
+129,"Piazza Santa Maria alla Fontana, 1, 20159 Milano MI, Italy",130
+130,"Piazza Santa Maria alla Fontana, 7, 20159 Milano MI, Italy",131
+131,"Piazza Sei Febbraio, 22, 20145 Milano MI, Italy",132
+132,"Piazza Sei Febbraio, 28, 20145 Milano MI, Italy",133
+133,"Piazza Sempione, 34, 20154 Milano MI, Italy",134
+134,"Piazza Tre Torri, 1, 20145 Milano MI, Italy",135
+135,"Piazza Tre Torri, 1G, 20145 Milano MI, Italy",136
+136,"Piazza Tre Torri, 2, 20145 Milano MI, Italy",137
+137,"Piazza Venticinque Aprile, 9, 20154 Milano MI, Italy",138
+138,"Piazza Vetra, 17, 20123 Milano MI, Italy",139
+139,"Piazza Vetra, 38, 20123 Milano MI, Italy",140
+140,"Piazza Vetra, 9, 20123 Milano MI, Italy",141
+141,"Piazza Virgilio, 21, 20123 Milano MI, Italy",142
+142,"Piazza della Conciliazione, 1, 20123 Milano MI, Italy",143
+143,"Piazza della Scala, 3, 20121 Milano MI, Italy",144
+144,"Piazzale Antonio Cantore, 2, 20123 Milano MI, Italy",145
+145,"Piazzale Carlo Archinto, 9, 20159 Milano MI, Italy",146
+146,"Piazzale Carlo Magno, 1, 20149 Milano MI, Italy",147
+147,"Piazzale Cimitero Monumentale, 23, 20154 Milano MI, Italy",148
+148,"Piazzale Crivellone, 18, 20149 Milano MI, Italy",149
+149,"Piazzale Crivellone, 9, 20149 Milano MI, Italy",150
+150,"Piazzale Giulio Cesare, 15, 20145 Milano MI, Italy",151
+151,"Piazzale Giulio Cesare, 8, 20145 Milano MI, Italy",152
+152,"Piazzale Luigi Cadorna, 14, 20123 Milano MI, Italy",153
+153,"Piazzale Tripoli, 22, 20146 Milano MI, Italy",154
+154,"Ripa Di P.Ta Ticinese Via Lombardini, 20143 Milano MI, Italy",155
+155,"Ripa di Porta Ticinese, 119, 20143 Milano MI, Italy",156
+156,"Ripa di Porta Ticinese, 125, 20143 Milano MI, Italy",157
+157,"Ripa di Porta Ticinese, 27, 20143 Milano MI, Italy",158
+158,"Ripa di Porta Ticinese, 45, 20143 Milano MI, Italy",159
+159,"Ripa di Porta Ticinese, 77, 20143 Milano MI, Italy",160
+160,"Ripa di Porta Ticinese, 89, 20143 Milano MI, Italy",161
+161,"S. Sofia, 20122 Milano MI, Italy",162
+162,"SPexSS11, 1, 20146 Milano MI, Italy",163
+163,"SPexSS35, 87, 20141 Milano MI, Italy",164
+164,"San Marco,20121, 20121 Milano MI, Italy",165
+165,"Stazione Ferroviaria Cadorna, Piazzale Luigi Cadorna, 20123 Milano MI, Italy",166
+166,"V.Le Faenza Via Taranto, 20142 Milano MI, Italy",167
+167,"V.Le Famagosta Via Venosta, 20143 Milano MI, Italy",168
+168,"V.le Da Cermenate Via Lusitania, 20141, 20141 Milano MI, Italy",169
+169,"V.le Eginardo, 3, 20149 Milano MI, Italy",170
+170,"V.le Gadio, 2, 20121 Milano MI, Italy",171
+171,"V.le Gian Galeazzo, 15, 20136 Milano MI, Italy",172
+172,"V.le Gian Galeazzo, 6, 20136 Milano MI, Italy",173
+173,"Via Abbondio Sangiorgio, 1, 20145 Milano MI, Italy",174
+174,"Via Abbondio Sangiorgio, 22, 20145 Milano MI, Italy",175
+175,"Via Abbondio Sangiorgio, 9, 20145 Milano MI, Italy",176
+176,"Via Alberto Mario, 54, 20149 Milano MI, Italy",177
+177,"Via Alberto da Giussano, 6a, 20145 Milano MI, Italy",178
+178,"Via Alcuino, 18, 20149 Milano MI, Italy",179
+179,"Via Aldo Rossi, 4, 20149 Milano MI, Italy",180
+180,"Via Aleardo Aleardi, 11, 20154 Milano MI, Italy",181
+181,"Via Alessandro Algardi, 13-1, 20148 Milano MI, Italy",182
+182,"Via Alessandro Volta, 29, 20121 Milano MI, Italy",183
+183,"Via Alessandro Volta, 29, 20154 Milano MI, Italy",184
+184,"Via Alessio di Tocqueville, 11, 20154 Milano MI, Italy",185
+185,"Via Alessio di Tocqueville, 13, 20154 Milano MI, Italy",186
+186,"Via Alfredo Albertini, 3, 20154 Milano MI, Italy",187
+187,"Via Alfredo Albertini, 6, 20154 Milano MI, Italy",188
+188,"Via Altino, 5, 20144 Milano MI, Italy",189
+189,"Via Anco Marzio, 4, 20123 Milano MI, Italy",190
+190,"Via Andrea Mantegna, 5, 20154 Milano MI, Italy",191
+191,"Via Andrea Massena, 18, 20145 Milano MI, Italy",192
+192,"Via Andrea Massena, 19, 20145 Milano MI, Italy",193
+193,"Via Andrea Massena, 3, 20145 Milano MI, Italy",194
+194,"Via Andrea Solari, 12, 20144 Milano MI, Italy",195
+195,"Via Andrea Solari, 22, 20144 Milano MI, Italy",196
+196,"Via Andrea Solari, 35 a, 20144 Milano MI, Italy",197
+197,"Via Andrea Solari, 47/5, 20144 Milano MI, Italy",198
+198,"Via Andrea Solari, 52, 20144 Milano MI, Italy",199
+199,"Via Andrea Solari, 68, 20144 Milano MI, Italy",200
+200,"Via Anfiteatro, 5, 20121 Milano MI, Italy",201
+201,"Via Angelo Michele Grancini, 8, 20145 Milano MI, Italy",202
+202,"Via Anton Giulio Barrili, 6, 20141 Milano MI, Italy",203
+203,"Via Antonia Pozzi, 6, 20149 Milano MI, Italy",204
+204,"Via Antonio Banfi, 8, 20122 Milano MI, Italy",205
+205,"Via Antonio Canova, 4, 20145 Milano MI, Italy",206
+206,"Via Antonio Canova, 9, 20145 Milano MI, Italy",207
+207,"Via Antonio Curti, 4, 20136 Milano MI, Italy",208
+208,"Via Antonio Pacinotti, 8, 20155 Milano MI, Italy",209
+209,"Via Antonio Rosmini, 15, 20154 Milano MI, Italy",210
+210,"Via Antonio Tantardini, 2, 20136 Milano MI, Italy",211
+211,"Via Antonio Tolomeo Trivulzio, 1, 20146 Milano MI, Italy",212
+212,"Via Antonio Tolomeo Trivulzio, 10, 20146 Milano MI, Italy",213
+213,"Via Antonio di Rudinì, 8, 20142 Milano MI, Italy",214
+214,"Via Arena, 11, 20123 Milano MI, Italy",215
+215,"Via Arena, 13, 20123 Milano MI, Italy",216
+216,"Via Arena, 15, 20123 Milano MI, Italy",217
+217,"Via Arena, 19, 20123 Milano MI, Italy",218
+218,"Via Arena, 35, 20123 Milano MI, Italy",219
+219,"Via Aristide de Togni, 7, 20123 Milano MI, Italy",220
+220,"Via Arona, 21, 20149 Milano MI, Italy",221
+221,"Via Arona, 25B, 20149 Milano MI, Italy",222
+222,"Via Ascanio Sforza, 81, 20141 Milano MI, Italy",223
+223,"Via Aurelio Saffi, 19, 20123 Milano MI, Italy",224
+224,"Via Aurelio Saffi, 26, 20123 Milano MI, Italy",225
+225,"Via Aurelio Saffi, 6, 20123 Milano MI, Italy",226
+226,"Via Balilla ang, Via Odoardo Tabacchi, 20136 Milano MI, Italy",227
+227,"Via Balilla, 18, 20136 Milano MI, Italy",228
+228,"Via Balilla, 22, 20136 Milano MI, Italy",229
+229,"Via Balilla, 25, 20136 Milano MI, Italy",230
+230,"Via Bari, 24, 20143 Milano MI, Italy",231
+231,"Via Bari, 24B, 20143 Milano MI, Italy",232
+232,"Via Bari, 24E, 20143 Milano MI, Italy",233
+233,"Via Barona, 30, 20142 Milano MI, Italy",234
+234,"Via Bartolomeo Colleoni, 9, 20149 Milano MI, Italy",235
+235,"Via Bartolomeo Panizza, 2, 20144 Milano MI, Italy",236
+236,"Via Bazzi Via Fontanili, 20141 Milano MI, Italy",237
+237,"Via Belfiore, 15, 20145 Milano MI, Italy",238
+238,"Via Bergognone, 8, 20144 Milano MI, Italy",239
+239,"Via Bernardino Biondelli, 11, 20141 Milano MI, Italy",240
+240,"Via Bernina, 2, 20158 Milano MI, Italy",241
+241,"Via Biella, 20, 20143 Milano MI, Italy",242
+242,"Via Bordighera, 34A, 20142 Milano MI, Italy",243
+243,"Via Bordighera, 35, 20142 Milano MI, Italy",244
+244,"Via Bordighera, 46, 20142 Milano MI, Italy",245
+245,"Via Borromei, 2, 20123 Milano MI, Italy",246
+246,"Via Bramante, 36, 20154 Milano MI, Italy",247
+247,"Via Bramante, 9, 20154 Milano MI, Italy",248
+248,"Via Brera, 2, 20121 Milano MI, Italy",249
+249,"Via Brera, 28, 20121 Milano MI, Italy",250
+250,"Via Broletto, 14, 20121 Milano MI, Italy",251
+251,"Via Broletto, 4972, 20121 Milano MI, Italy",252
+252,"Via Bullona, 22, 20154 Milano MI, Italy",253
+253,"Via Calabria, 5, 20158 Milano MI, Italy",254
+254,"Via Calabria, 9/a, 20158 Milano MI, Italy",255
+255,"Via Calatafimi, 1, 20122 Milano MI, Italy",256
+256,"Via Calatafimi, 10, 20122 Milano MI, Italy",257
+257,"Via Cappellari, 5, 20123 Milano MI, Italy",258
+258,"Via Cappuccio, 3, 20123 Milano MI, Italy",259
+259,"Via Caracciolo Francesco Ammiraglio, 30, 20155 Milano MI, Italy",260
+260,"Via Caracciolo Francesco Ammiraglio, 87, 20155 Milano MI, Italy",261
+261,"Via Caradosso, 15, 20123 Milano MI, Italy",262
+262,"Via Caradosso, 18, 20123 Milano MI, Italy",263
+263,"Via Caradosso, 2, 20123 Milano MI, Italy",264
+264,"Via Caravaggio, 10, 20144 Milano MI, Italy",265
+265,"Via Carlo Bazzi, 49, 20141 Milano MI, Italy",266
+266,"Via Carlo D'Adda, 8, 20143 Milano MI, Italy",267
+267,"Via Carlo Darwin, 20/22, 20143 Milano MI, Italy",268
+268,"Via Carlo Farini, 23-25, 20158 Milano MI, Italy",269
+269,"Via Carlo Farini, 30, 20159 Milano MI, Italy",270
+270,"Via Carlo Farini, 55, 20159 Milano MI, Italy",271
+271,"Via Carlo Ilarione Petitti, 11, 20149 Milano MI, Italy",272
+272,"Via Carlo Ilarione Petitti, 26, 20149 Milano MI, Italy",273
+273,"Via Carlo Linneo, 5, 20145 Milano MI, Italy",274
+274,"Via Carlo Maria Maggi, 2, 20154 Milano MI, Italy",275
+275,"Via Carlo Ravizza, 12, 20149 Milano MI, Italy",276
+276,"Via Carlo Ravizza, 22, 20149 Milano MI, Italy",277
+277,"Via Carlo Ravizza, 5, 20149 Milano MI, Italy",278
+278,"Via Carlo Ravizza, 8, 20149 Milano MI, Italy",279
+279,"Via Carlo Torre, 29, 20143 Milano MI, Italy",280
+280,"Via Carlo Torre, 3, 20143 Milano MI, Italy",281
+281,"Via Carlo Torre, 43/A, 20143 Milano MI, Italy",282
+282,"Via Carlo de Cristoforis, 6A, 20124 Milano MI, Italy",283
+283,"Via Castellino da Castello, 1, 20155 Milano MI, Italy",284
+284,"Via Cenisio, 72, 20154 Milano MI, Italy",285
+285,"Via Ceresio, 12, 20154 Milano MI, Italy",286
+286,"Via Ceroni Riccardo, 10, 20155 Milano MI, Italy",287
+287,"Via Cesare Cesariano, 6, 20154 Milano MI, Italy",288
+288,"Via Cesare Correnti, 6, 20123 Milano MI, Italy",289
+289,"Via Cesare da Sesto, 9, 20123 Milano MI, Italy",290
+290,"Via Cesena, 11, 20155 Milano MI, Italy",291
+291,"Via Cimarosa Via Monferrato, 20144 Milano MI, Italy",292
+292,"Via Circo, 16, 20123 Milano MI, Italy",293
+293,"Via Cola Montano, 29, 20159 Milano MI, Italy",294
+294,"Via Cola Montano, 9, 20159 Milano MI, Italy",295
+295,"Via Cola di Rienzo, 1, 20144 Milano MI, Italy",296
+296,"Via Cola di Rienzo, 57, 20144 Milano MI, Italy",297
+297,"Via Collodi, 1, 20123 Milano MI, Italy",298
+298,"Via Coluccio Salutati, 18, 20144 Milano MI, Italy",299
+299,"Via Coluccio Salutati, 19, 20144 Milano MI, Italy",300
+300,"Via Coluccio Salutati, 6, 20144 Milano MI, Italy",301
+301,"Via Coluccio Salutati, 9, 20144 Milano MI, Italy",302
+302,"Via Conchetta, 20, 20136 Milano MI, Italy",303
+303,"Via Cordusio, 2, 20123 Milano MI, Italy",304
+304,"Via Cordusio, 4, 20123 Milano MI, Italy",305
+305,"Via Corleone, 7612, 20149 Milano MI, Italy",306
+306,"Via Correggio, 2, 20149 Milano MI, Italy",307
+307,"Via Correggio, 3, 20149 Milano MI, Italy",308
+308,"Via Correggio, 55, 20149 Milano MI, Italy",309
+309,"Via Correggio, 57, 20149 Milano MI, Italy",310
+310,"Via Cosimo del Fante, 19, 20122 Milano MI, Italy",311
+311,"Via Costanza, 13, 20146 Milano MI, Italy",312
+312,"Via Costanza, 2, 20144 Milano MI, Italy",313
+313,"Via Cristoforo Madruzzo, 3, 20149 Milano MI, Italy",314
+314,"Via Cusani, 1, 20121 Milano MI, Italy",315
+315,"Via Cusani, 2, 20121 Milano MI, Italy",316
+316,"Via Cusio, 11, 20159 Milano MI, Italy",317
+317,"Via D'adda Carlo, 4, 20143 Milano MI, Italy",318
+318,"Via Dal Verme Jacopo, 10, 20159 Milano MI, Italy",319
+319,"Via Dante, 23, 20121 Milano MI, Italy",320
+320,"Via Davide Campari, 5, 20142 Milano MI, Italy",321
+321,"Via Demetrio Stratos, 20145 Milano MI, Italy",322
+322,"Via Demetrio Stratos, 5, 20145 Milano MI, Italy",323
+323,"Via Desiderio da Settignano, 12, 20149 Milano MI, Italy",324
+324,"Via Domenichino, 47, 20149 Milano MI, Italy",325
+325,"Via Domenico Cimarosa, 20, 20144 Milano MI, Italy",326
+326,"Via Domenico Cucchiari, 17, 20155 Milano MI, Italy",327
+327,"Via Domodossola, 23, 20145 Milano MI, Italy",328
+328,"Via Don Luigi Palazzolo, 12, 20149 Milano MI, Italy",329
+329,"Via Don Rodrigo Via Fra Cristoforo, 20142 Milano MI, Italy",330
+330,"Via Don Rodrigo prima di Via Fra' Cristoforo, 20142, 20142 Milano MI, Italy",331
+331,"Via Edmondo de Amicis, 44, 20123 Milano MI, Italy",332
+332,"Via Eleuterio Pagliano, 11, 20149 Milano MI, Italy",333
+333,"Via Emilio Gola, 16/2, 20143 Milano MI, Italy",334
+334,"Via Emilio Gola, 16/8, 20143 Milano MI, Italy",335
+335,"Via Emilio Gola, 22, 20143 Milano MI, Italy",336
+336,"Via Emilio Gola, 7, 20143 Milano MI, Italy",337
+337,"Via Enrico Panzacchi, 4, 20123 Milano MI, Italy",338
+338,"Via Enrico Schievano, 15, 20143 Milano MI, Italy",339
+339,"Via Enrico Tazzoli, 5, 20154 Milano MI, Italy",340
+340,"Via Ercole Ferrario, 3, 20144 Milano MI, Italy",341
+341,"Via Ernesto Calindri, 5, 20143 Milano MI, Italy",342
+342,"Via Ettore Ponti, 15, 20143 Milano MI, Italy",343
+343,"Via Ettore Ponti, 17, 20143 Milano MI, Italy",344
+344,"Via Ettore Ponti, 49, 20143 Milano MI, Italy",345
+345,"Via Ettore Ponti, 52, 20143 Milano MI, Italy",346
+346,"Via Ettore Ponti, 58, 20143 Milano MI, Italy",347
+347,"Via Ettore Ponti, 62, 20143 Milano MI, Italy",348
+348,"Via Ettore Romagnoli, 12, 20146 Milano MI, Italy",349
+349,"Via Ettore Troilo, 8, 20136 Milano MI, Italy",350
+350,"Via Eugenio Villoresi, 10, 20143 Milano MI, Italy",351
+351,"Via Eugenio Villoresi, 5, 20143 Milano MI, Italy",352
+352,"Via Farini Via Ferrari, 20154 Milano MI, Italy",353
+353,"Via Federico Confalonieri, 1a, 20124 Milano MI, Italy",354
+354,"Via Federico Faruffini, 38, 20149 Milano MI, Italy",355
+355,"Via Felice Lope de Vega, 35, 20143 Milano MI, Italy",356
+356,"Via Felice Lope de Vega, 37, 20143 Milano MI, Italy",357
+357,"Via Fernanda Wittgens, 1, 20123 Milano MI, Italy",358
+358,"Via Ferrero, 20, 20143 Milano MI, Italy",359
+359,"Via Filippo Argelati, 22, 20143 Milano MI, Italy",360
+360,"Via Filippo Argelati, 29, 20143 Milano MI, Italy",361
+361,"Via Filippo Argelati, 40, 20143 Milano MI, Italy",362
+362,"Via Filippo Argelati, 46, 20143 Milano MI, Italy",363
+363,"Via Filippo Carcano, n 2, 20149 Milano MI, Italy",364
+364,"Via Fosse Ardeatine, 4, 20123 Milano MI, Italy",365
+365,"Via Fra Bartolomeo, 15, 20146 Milano MI, Italy",366
+366,"Via Fra Bartolomeo, 23, 20146 Milano MI, Italy",367
+367,"Via Francesco Albani, 9, 20149 Milano MI, Italy",368
+368,"Via Francesco Arese, 22, 20159 Milano MI, Italy",369
+369,"Via Francesco Brioschi, 50/7, 20141 Milano MI, Italy",370
+370,"Via Francesco Caracciolo, 29, 20155 Milano MI, Italy",371
+371,"Via Francesco Cherubini, 6, 20145 Milano MI, Italy",372
+372,"Via Francesco Cherubini, 8, 20145 Milano MI, Italy",373
+373,"Via Francesco Domenico Guerrazzi, 10, 20145 Milano MI, Italy",374
+374,"Via Francesco Domenico Guerrazzi, 18, 20145 Milano MI, Italy",375
+375,"Via Francesco Domenico Guerrazzi, 5, 20145 Milano MI, Italy",376
+376,"Via Francesco Ferrucci, 22, 20145 Milano MI, Italy",377
+377,"Via Francesco Filelfo, 4, 20145 Milano MI, Italy",378
+378,"Via Francesco Londonio, 25, 20154 Milano MI, Italy",379
+379,"Via Francesco Novati, 2, 20123 Milano MI, Italy",380
+380,"Via Francesco Olgiati, 31, 20143 Milano MI, Italy",381
+381,"Via Francesco Olgiati, 5, 20143 Milano MI, Italy",382
+382,"Via Francesco Petrarca, 22, 20123 Milano MI, Italy",383
+383,"Via Francesco de Sanctis, 1, 20141 Milano MI, Italy",384
+384,"Via Francesco de Sanctis, 106, 20141 Milano MI, Italy",385
+385,"Via Francesco de Sanctis, 37, 20141 Milano MI, Italy",386
+386,"Via Franco Russoli, 5, 20143 Milano MI, Italy",387
+387,"Via Franco Russoli, 9, 20143 Milano MI, Italy",388
+388,"Via Franco Tosi, 10, 20143 Milano MI, Italy",389
+389,"Via Frà Cristoforo, 1, 20142 Milano MI, Italy",390
+390,"Via G. Leopardi, 17, 20123 Milano MI, Italy",391
+391,"Via G. Leopardi, 26, 20123 Milano MI, Italy",392
+392,"Via G. Leopardi, 29, 20123 Milano MI, Italy",393
+393,"Via Gaetano Negri, 10, 20123 Milano MI, Italy",394
+394,"Via Gaetano Negri, n. 1, 20123 Milano MI, Italy",395
+395,"Via Gaetano Previati, 22, 20149 Milano MI, Italy",396
+396,"Via Gaetano de Castillia, 6, 20124 Milano MI, Italy",397
+397,"Via Gaetano de Castillia, 7, 20124 Milano MI, Italy",398
+398,"Via Galileo Ferraris, 15, 20154 Milano MI, Italy",399
+399,"Via Galileo Ferraris, 1A, 20154 Milano MI, Italy",400
+400,"Via Gattamelata, 13, 20149 Milano MI, Italy",401
+401,"Via Gattamelata, 30, 20149 Milano MI, Italy",402
+402,"Via Gattamelata, 5, 20155 Milano MI, Italy",403
+403,"Via Gentilino, 14, 20136 Milano MI, Italy",404
+404,"Via Gentilino, 6, 20136 Milano MI, Italy",405
+405,"Via Giacinto Bruzzesi, 42, 20146 Milano MI, Italy",406
+406,"Via Giacomo Antonini, 3, 20141 Milano MI, Italy",407
+407,"Via Giacomo Boni, 24, 20144 Milano MI, Italy",408
+408,"Via Giacomo Leopardi, 12, 20123 Milano MI, Italy",409
+409,"Via Giacomo Leopardi, 24, 20123 Milano MI, Italy",410
+410,"Via Giacomo Watt, 13a, 20143 Milano MI, Italy",411
+411,"Via Giacomo Watt, 14/1, 20143 Milano MI, Italy",412
+412,"Via Giacomo Watt, 2, 20143 Milano MI, Italy",413
+413,"Via Giacomo Watt, 37, 20143 Milano MI, Italy",414
+414,"Via Giacomo Watt, 39, 20143 Milano MI, Italy",415
+415,"Via Giacomo Watt, 47, 20143 Milano MI, Italy",416
+416,"Via Giacomo Watt, 6, 20143 Milano MI, Italy",417
+417,"Via Giambattista Bodoni, 5, 20155 Milano MI, Italy",418
+418,"Via Giambellino, 37, 20146 Milano MI, Italy",419
+419,"Via Giambellino, 7, 20144 Milano MI, Italy",420
+420,"Via Gian Antonio Boltraffio, 2, 20159 Milano MI, Italy",421
+421,"Via Gian Antonio Boltraffio, 27, 20159 Milano MI, Italy",422
+422,"Via Gian Battista Bazzoni, 2, 20123 Milano MI, Italy",423
+423,"Via Gian Battista Vico, 16/A, 20123 Milano MI, Italy",424
+424,"Via Gian Carlo Castelbarco, 25, 20136 Milano MI, Italy",425
+425,"Via Gian Carlo Castelbarco, 27, 20136 Milano MI, Italy",426
+426,"Via Giannino Sessa, 6, 20142 Milano MI, Italy",427
+427,"Via Giordano Bruno, 1, 20154 Milano MI, Italy",428
+428,"Via Giordano Bruno, 11, 20154 Milano MI, Italy",429
+429,"Via Giordano Bruno, 4, 20154 Milano MI, Italy",430
+430,"Via Giorgio Pallavicino, 25, 20145 Milano MI, Italy",431
+431,"Via Giorgio Washington, 12, 20146 Milano MI, Italy",432
+432,"Via Giorgio Washington, 66, 20146 Milano MI, Italy",433
+433,"Via Giorgio Washington, 81, 20146 Milano MI, Italy",434
+434,"Via Giorgio Washington, 84, 20146 Milano MI, Italy",435
+435,"Via Giorgio Washington, 85, 20144 Milano MI, Italy",436
+436,"Via Giorgio Washington, 9, 20146 Milano MI, Italy",437
+437,"Via Giosuè Borsi, 10/12, 20143 Milano MI, Italy",438
+438,"Via Giosuè Carducci, 29, 20123 Milano MI, Italy",439
+439,"Via Giosuè Carducci, 38, 20123 Milano MI, Italy",440
+440,"Via Giosuè Carducci, 5, 20123 Milano MI, Italy",441
+441,"Via Giovanni Battista Bertini, 29, 20154 Milano MI, Italy",442
+442,"Via Giovanni Battista Boeri, 11, 20141 Milano MI, Italy",443
+443,"Via Giovanni Battista Fauchè, 13, 20154 Milano MI, Italy",444
+444,"Via Giovanni Battista Niccolini, 26, 20154 Milano MI, Italy",445
+445,"Via Giovanni Boccaccio, 15, 20123 Milano MI, Italy",446
+446,"Via Giovanni Boccaccio, 27, 20123 Milano MI, Italy",447
+447,"Via Giovanni Palatucci, 5, 20142 Milano MI, Italy",448
+448,"Via Giovanni Palatucci, 568, 20142 Milano MI, Italy",449
+449,"Via Giovanni Pastorelli, 16, 20143 Milano MI, Italy",450
+450,"Via Giovanni Pezzotti, 10, 20141 Milano MI, Italy",451
+451,"Via Giovanni Pezzotti, 25, 20141 Milano MI, Italy",452
+452,"Via Giovanni Pezzotti, 53, 20141 Milano MI, Italy",453
+453,"Via Giovanni Prati, 1, 20145 Milano MI, Italy",454
+454,"Via Giovanni Schiavoni, 2, 20142 Milano MI, Italy",455
+455,"Via Giovanni Segantini, 8, 20143 Milano MI, Italy",456
+456,"Via Giovanni Spadolini, 5/7, 20141 Milano MI, Italy",457
+457,"Via Giovanni da Procida, 25, 20149 Milano MI, Italy",458
+458,"Via Giovanni da Procida, 27, 20149 Milano MI, Italy",459
+459,"Via Giulio Cesare Procaccini, 4, 20154 Milano MI, Italy",460
+460,"Via Giuseppe Adami, 7, 20143 Milano MI, Italy",461
+461,"Via Giuseppe Antonio Borgese, 4, 20154 Milano MI, Italy",462
+462,"Via Giuseppe Antonio Sassi, 13, 20123 Milano MI, Italy",463
+463,"Via Giuseppe Brentano, 2, 20121 Milano MI, Italy",464
+464,"Via Giuseppe Codara, 1, 20144 Milano MI, Italy",465
+465,"Via Giuseppe Dezza, 46, 20144 Milano MI, Italy",466
+466,"Via Giuseppe Dezza, 47, 20144 Milano MI, Italy",467
+467,"Via Giuseppe Ferrari, 14, 20154 Milano MI, Italy",468
+468,"Via Giuseppe Frua, 20, 20146 Milano MI, Italy",469
+469,"Via Giuseppe Giusti, 14, 20154 Milano MI, Italy",470
+470,"Via Giuseppe Giusti, 15, 20154 Milano MI, Italy",471
+471,"Via Giuseppe Giusti, 41, 20154 Milano MI, Italy",472
+472,"Via Giuseppe Govone, 18, 20154 Milano MI, Italy",473
+473,"Via Giuseppe Govone, 28, 20155 Milano MI, Italy",474
+474,"Via Giuseppe Govone, 42, 20155 Milano MI, Italy",475
+475,"Via Giuseppe Govone, 69, 20155 Milano MI, Italy",476
+476,"Via Giuseppe Meda, 1, 20136 Milano MI, Italy",477
+477,"Via Giuseppe Meda, 24, 20141 Milano MI, Italy",478
+478,"Via Giuseppe Meda, 28, 20141 Milano MI, Italy",479
+479,"Via Giuseppe Meda, 34, 20141 Milano MI, Italy",480
+480,"Via Giuseppe Revere, 14, 20123 Milano MI, Italy",481
+481,"Via Goito, 11-1, 20121 Milano MI, Italy",482
+482,"Via Gran S. Bernardo, 18 Cenisio, M5, 20154 Milano MI, Italy",483
+483,"Via Gran S. Bernardo, 5, 20154 Milano MI, Italy",484
+484,"Via Grigna, 3, 20155 Milano MI, Italy",485
+485,"Via Grigna, 5, 20155 Milano MI, Italy",486
+486,"Via Grigna, 8, 20155 Milano MI, Italy",487
+487,"Via Grosotto, 79, 20149 Milano MI, Italy",488
+488,"Via Guercino, 1, 20154 Milano MI, Italy",489
+489,"Via Guglielmo Pepe, 12, 20159 Milano MI, Italy",490
+490,"Via Guglielmo Pepe, 40, 20159 Milano MI, Italy",491
+491,"Via Guglielmo Pepe, 44, 20159 Milano MI, Italy",492
+492,"Via Guglielmo Röntgen, 2, 20136 Milano MI, Italy",493
+493,"Via Ignazio Gardella, 2, 20149 Milano MI, Italy",494
+494,"Via Imperia, 22, 20142 Milano MI, Italy",495
+495,"Via Imperia, 36, 20142 Milano MI, Italy",496
+496,"Via Innocenzo Isimbardi, 24, 20141 Milano MI, Italy",497
+497,"Via Innocenzo Isimbardi, 49, 20141 Milano MI, Italy",498
+498,"Via Ippolito Nievo, 30, 20145 Milano MI, Italy",499
+499,"Via Italo Svevo, 2, 20143 Milano MI, Italy",500

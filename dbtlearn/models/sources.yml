@@ -1,0 +1,8 @@
+version : 2
+
+sources:
+  - name: TAXI_APP
+    schema: TRANSACTIONS_RAW
+    tables:
+      - name: TAXI_CALLS_JSON
+      - name: TAXI_CALLS_PREDICTIONS_JSON

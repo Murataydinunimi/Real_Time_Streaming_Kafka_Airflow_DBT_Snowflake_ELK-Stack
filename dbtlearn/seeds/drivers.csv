@@ -1,0 +1,76 @@
+id,name,surname,registration_date,age,education
+1,Amadeo,Cantimori,2021-07-04,57,High School
+2,Rosa,Casaleggio,2022-09-26,40,Ph.D.
+3,Sole,Scaduto,2021-07-21,59,Master's Degree
+4,Erika,Giacconi,2020-02-22,19,Bachelor's Degree
+5,Rossana,Torlonia,2021-02-06,33,Ph.D.
+6,Adelasia,Fiorucci,2018-12-10,21,Secondary School
+7,Micheletto,Guarana,2023-02-19,25,High School
+8,Laura,Zaguri,2023-03-19,48,Secondary School
+9,Nicola,Aporti,2018-12-07,42,Master's Degree
+10,Leonardo,Martinelli,2022-06-19,24,Master's Degree
+11,Liana,Omma,2022-03-29,33,Primary School
+12,Camillo,Poerio,2021-04-18,31,Bachelor's Degree
+13,Jacopo,Acerbi,2019-10-07,35,Secondary School
+14,Raffaele,Comeriato,2020-04-06,42,Secondary School
+15,Teresa,Lollobrigida,2019-08-29,22,Secondary School
+16,Federica,Tolentino,2020-09-10,57,Master's Degree
+17,Allegra,Vitturi,2018-04-15,46,Secondary School
+18,Delfino,Anastasi,2022-05-31,26,Primary School
+19,Sole,Faranda,2022-05-16,18,Secondary School
+20,Paola,Grisoni,2022-11-09,31,Secondary School
+21,Tatiana,Vezzali,2021-03-29,28,High School
+22,Ottone,Leoncavallo,2020-07-23,38,Secondary School
+23,Luisa,Argurio,2018-06-28,52,Ph.D.
+24,Leopoldo,Siffredi,2021-10-14,58,Secondary School
+25,Ricciotti,Faranda,2022-03-22,29,Ph.D.
+26,Maurilio,Iannelli,2019-10-12,30,Bachelor's Degree
+27,Elladio,Gioberti,2020-09-15,37,Primary School
+28,Geronimo,Dulbecco,2021-06-13,41,Bachelor's Degree
+29,Santino,Morlacchi,2018-11-03,28,Secondary School
+30,Lucio,Morpurgo,2019-11-10,34,Primary School
+31,Costanzo,Mattarella,2021-04-22,39,High School
+32,Ezio,Legnante,2021-07-10,56,Master's Degree
+33,Virgilio,Canevascini,2018-08-26,18,Master's Degree
+34,Emma,Tarantini,2020-09-30,39,Primary School
+35,Annetta,Collina,2020-10-12,37,High School
+36,Gabriella,Amato,2021-12-14,37,Bachelor's Degree
+37,Romeo,Baggio,2022-12-23,38,Secondary School
+38,Graziano,Carosone,2019-07-10,48,Bachelor's Degree
+39,Arturo,Boaga,2021-05-18,29,Primary School
+40,Ermenegildo,Palmisano,2018-04-10,34,Primary School
+41,Ugo,Scamarcio,2021-01-31,40,Bachelor's Degree
+42,Uberto,Maderno,2019-04-25,19,Master's Degree
+43,Rosa,Rastelli,2021-01-31,44,High School
+44,Alessia,Ossani,2019-04-09,42,Master's Degree
+45,Lauretta,Soderini,2023-03-08,18,Bachelor's Degree
+46,Nina,Zanzi,2019-07-28,20,Ph.D.
+47,Mirco,Loredan,2020-11-02,29,Master's Degree
+48,Gianluca,Malacarne,2021-03-18,30,Primary School
+49,Umberto,Verdi,2020-01-24,33,Bachelor's Degree
+50,Amleto,Maglio,2018-07-25,40,Master's Degree
+51,Chiara,Scarponi,2019-10-28,40,Master's Degree
+52,Ermes,Morandini,2020-05-13,34,Bachelor's Degree
+53,Maria,Petrucci,2022-04-07,24,Master's Degree
+54,Lazzaro,Burcardo,2019-02-05,41,High School
+55,Lina,Celentano,2023-04-18,20,Bachelor's Degree
+56,Fabio,Satriani,2018-12-06,23,Secondary School
+57,Ludovico,Petrassi,2021-05-07,39,Master's Degree
+58,Fredo,Abbagnale,2021-05-05,57,High School
+59,Hugo,Anguissola,2023-03-17,27,High School
+60,Donato,Muti,2019-12-09,35,Ph.D.
+61,Leonardo,Traversa,2020-01-14,52,Primary School
+62,Orazio,Fabbri,2020-09-14,37,Ph.D.
+63,Ilaria,Iannucci,2019-04-21,38,High School
+64,Daria,Pizzamano,2017-12-31,29,Primary School
+65,Gelsomina,Petrocelli,2018-04-10,58,Secondary School
+66,Imelda,Barracco,2018-10-02,37,Bachelor's Degree
+67,Gianpietro,Duse,2018-11-17,28,Ph.D.
+68,Fabio,Randazzo,2018-05-05,21,Primary School
+69,Giacobbe,Peano,2020-01-28,56,Master's Degree
+70,Greco,Pizzamano,2018-07-01,43,Primary School
+71,Costantino,Santoro,2020-02-17,33,Ph.D.
+72,Serena,Cagnin,2018-03-15,56,High School
+73,Ermanno,Pennetta,2022-02-21,34,Bachelor's Degree
+74,Mirco,Manacorda,2020-12-18,59,Bachelor's Degree
+75,Beatrice,Bova,2019-03-15,27,Primary School
