@@ -59,14 +59,14 @@ create or replace file format taxi_app_file_format
 
 
 create or replace stage AZURE_STAGE_PREDICTIONS
-URL=('azure://dataengineeringst.blob.core.windows.net/predictions')
-CREDENTIALS = (AZURE_SAS_TOKEN ='?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-01-01T00:06:47Z&st=2023-11-04T16:06:47Z&spr=https&sig=24B0uoer3YMHbvbbIlkVIOJ%2Ftj7otrgoum9UjTL3Kkw%3D')
+URL=('azure://<your_storage_account_name>.blob.core.windows.net/predictions')
+CREDENTIALS = (AZURE_SAS_TOKEN ='your-sas-token')
 file_format=taxi_app_file_format;
 
 --- CREATE THE STAGE TAXI-APP
 create or replace stage AZURE_STAGE
-URL=('azure://dataengineeringst.blob.core.windows.net/taxi-app-data')
-CREDENTIALS = (AZURE_SAS_TOKEN ='?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-01-01T00:06:47Z&st=2023-11-04T16:06:47Z&spr=https&sig=24B0uoer3YMHbvbbIlkVIOJ%2Ftj7otrgoum9UjTL3Kkw%3D')
+URL=('azure://<your_storage_account_name>.blob.core.windows.net/taxi-app-data')
+CREDENTIALS = (AZURE_SAS_TOKEN ='your-sas-token')
 file_format=taxi_app_file_format;
 
 
