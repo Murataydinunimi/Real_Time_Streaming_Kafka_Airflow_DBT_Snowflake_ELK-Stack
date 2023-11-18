@@ -15,7 +15,7 @@ import os
 dag = DAG(
     'dag_azure_storage',
     start_date=datetime(2023, 1, 1),
-    schedule_interval=timedelta(seconds=160), 
+    schedule_interval=timedelta(seconds=120), 
     catchup=False,
 )
 
@@ -26,7 +26,7 @@ azure_blob_sensor_taxi = WasbPrefixSensor(
     prefix='transactions.json', 
     wasb_conn_id = 'wasb_conn_id',
     timeout=60 * 60 * 24,  
-    poke_interval=120,  
+    poke_interval=60,  
     mode='poke', 
     dag=dag
 )
