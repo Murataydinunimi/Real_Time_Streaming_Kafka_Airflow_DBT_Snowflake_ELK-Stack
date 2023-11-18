@@ -26,7 +26,7 @@ azure_blob_sensor_taxi = WasbPrefixSensor(
     prefix='transactions.json', 
     wasb_conn_id = 'wasb_conn_id',
     timeout=60 * 60 * 24,  
-    poke_interval=60,  
+    poke_interval=120,  
     mode='poke', 
     dag=dag
 )
