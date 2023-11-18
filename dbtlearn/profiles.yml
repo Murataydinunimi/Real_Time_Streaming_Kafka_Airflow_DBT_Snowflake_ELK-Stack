@@ -3,7 +3,7 @@ dbtlearn:
     dev:
       account: '<snowflake-your-account_name>-<your-regions>'
       database: TAXI_APP
-      password: 'your-dbt-password'
+      password: 'dbtPassword123'
       role: TAXI_APP_ML
       schema: TRANSACTIONS
       threads: 1
