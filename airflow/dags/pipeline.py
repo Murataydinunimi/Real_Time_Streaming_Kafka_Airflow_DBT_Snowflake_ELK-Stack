@@ -104,7 +104,7 @@ run_dbt_taxi_task = DockerOperator(
     api_version='auto',
     docker_url='unix://var/run/docker.sock', 
     command='sh -c "cd /dbtlearn && dbt run --models taxi_calls* --project-dir /dbtlearn"',
-    mounts=[Mount(source='/mnt/c/Users/murat.aydin/Desktop/personal_projects/apache_kafka/dbtlearn',target='/dbtlearn',type='bind')],
+    mounts=[Mount(source='<your_path_to_the_repo>Real_Time_Streaming_Kafka_Airflow_DBT_Snowflake_ELK-Stack/dbtlearn',target='/dbtlearn',type='bind')],
     network_mode='container:dbt',  
     dag=dag
 )
@@ -115,7 +115,7 @@ run_dbt_calls_result_task = DockerOperator(
     api_version='auto',
     docker_url='unix://var/run/docker.sock', 
     command='sh -c "cd /dbtlearn && dbt run --models calls_result --project-dir /dbtlearn"',
-    mounts=[Mount(source='/mnt/c/Users/murat.aydin/Desktop/personal_projects/apache_kafka/dbtlearn',target='/dbtlearn',type='bind')],
+    mounts=[Mount(source='<your_path_to_the_repo>Real_Time_Streaming_Kafka_Airflow_DBT_Snowflake_ELK-Stack/dbtlearn',target='/dbtlearn',type='bind')],
     network_mode='container:dbt',  
     dag=dag
 )
@@ -126,7 +126,7 @@ run_dbt_ml_mart_task = DockerOperator(
     api_version='auto',
     docker_url='unix://var/run/docker.sock', 
     command='sh -c "cd /dbtlearn && dbt run --models ml_mart --project-dir /dbtlearn"',
-    mounts=[Mount(source='/mnt/c/Users/murat.aydin/Desktop/personal_projects/apache_kafka/dbtlearn',target='/dbtlearn',type='bind')],
+    mounts=[Mount(source='<your_path_to_the_repo>Real_Time_Streaming_Kafka_Airflow_DBT_Snowflake_ELK-Stack/dbtlearn',target='/dbtlearn',type='bind')],
     network_mode='container:dbt',  
     dag=dag
 )
@@ -137,7 +137,7 @@ run_dbt_metrics_to_kibana_task = DockerOperator(
     api_version='auto',
     docker_url='unix://var/run/docker.sock', 
     command='sh -c "cd /dbtlearn && dbt run --models metrics_to_kibana --project-dir /dbtlearn"',
-    mounts=[Mount(source='/mnt/c/Users/murat.aydin/Desktop/personal_projects/apache_kafka/dbtlearn',target='/dbtlearn',type='bind')],
+    mounts=[Mount(source='<your_path_to_the_repo>Real_Time_Streaming_Kafka_Airflow_DBT_Snowflake_ELK-Stack/dbtlearn',target='/dbtlearn',type='bind')],
     network_mode='container:dbt',  
     dag=dag
 )
@@ -147,7 +147,7 @@ run_dbt_pred_task = DockerOperator(
     api_version='auto',
     docker_url='unix://var/run/docker.sock', 
     command='sh -c "cd /dbtlearn && dbt run --models predictions* --project-dir /dbtlearn"',
-    mounts=[Mount(source='/mnt/c/Users/murat.aydin/Desktop/personal_projects/apache_kafka/dbtlearn',target='/dbtlearn',type='bind')],
+    mounts=[Mount(source='<your_path_to_the_repo>Real_Time_Streaming_Kafka_Airflow_DBT_Snowflake_ELK-Stack/dbtlearn',target='/dbtlearn',type='bind')],
     network_mode='container:dbt',  
     dag=dag
 )
